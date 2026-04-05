@@ -1,0 +1,7 @@
+{
+    "name": "queenly-majesty",
+    "effect_description": "When an opposing Pok\u00e9mon attempts to use a move that targets this Pok\u00e9mon or an ally, and that move has priority, it will fail.",
+    "pokemon": [
+        "tsareena"
+    ]
+}

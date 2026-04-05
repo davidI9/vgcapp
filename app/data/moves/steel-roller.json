@@ -1,0 +1,7 @@
+{
+    "name": "steel-roller",
+    "type": "steel",
+    "power": 130,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

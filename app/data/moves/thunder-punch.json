@@ -1,0 +1,7 @@
+{
+    "name": "thunder-punch",
+    "type": "electric",
+    "power": 75,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."
+}

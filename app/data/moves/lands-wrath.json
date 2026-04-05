@@ -1,0 +1,7 @@
+{
+    "name": "lands-wrath",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

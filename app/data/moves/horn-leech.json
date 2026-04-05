@@ -1,0 +1,7 @@
+{
+    "name": "horn-leech",
+    "type": "grass",
+    "power": 75,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

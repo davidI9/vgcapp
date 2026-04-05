@@ -1,0 +1,7 @@
+{
+    "name": "origin-pulse",
+    "type": "water",
+    "power": 110,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage."
+}

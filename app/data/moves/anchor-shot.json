@@ -1,0 +1,7 @@
+{
+    "name": "anchor-shot",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Traps the target."
+}

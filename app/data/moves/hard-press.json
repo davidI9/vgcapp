@@ -1,0 +1,7 @@
+{
+    "name": "hard-press",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 100,
+    "effect_description": "The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power."
+}

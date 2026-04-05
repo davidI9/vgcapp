@@ -1,0 +1,35 @@
+{
+    "id": 664,
+    "name": "scatterbug",
+    "species": "scatterbug",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "bug"
+    ],
+    "base_stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 27,
+        "special-defense": 25,
+        "speed": 35
+    },
+    "bst": 200,
+    "abilities": [
+        "shield-dust",
+        "compound-eyes",
+        "friend-guard"
+    ],
+    "moves": [
+        "tackle",
+        "poison-powder",
+        "stun-spore",
+        "string-shot",
+        "bug-bite",
+        "rage-powder",
+        "struggle-bug",
+        "tera-blast",
+        "pounce"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+}

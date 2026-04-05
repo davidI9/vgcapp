@@ -1,0 +1,14 @@
+{
+    "name": "minus",
+    "effect_description": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.  This bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+    "pokemon": [
+        "electrike",
+        "manectric",
+        "minun",
+        "klink",
+        "klang",
+        "klinklang",
+        "toxtricity-low-key",
+        "toxtricity-low-key-gmax"
+    ]
+}

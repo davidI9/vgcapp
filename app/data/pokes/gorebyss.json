@@ -1,0 +1,63 @@
+{
+    "id": 368,
+    "name": "gorebyss",
+    "species": "gorebyss",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "water"
+    ],
+    "base_stats": {
+        "hp": 55,
+        "attack": 84,
+        "defense": 105,
+        "special-attack": 114,
+        "special-defense": 75,
+        "speed": 52
+    },
+    "bst": 485,
+    "abilities": [
+        "swift-swim",
+        "hydration"
+    ],
+    "moves": [
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "confusion",
+        "psychic",
+        "agility",
+        "double-team",
+        "waterfall",
+        "amnesia",
+        "rest",
+        "substitute",
+        "protect",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "baton-pass",
+        "rain-dance",
+        "psych-up",
+        "shadow-ball",
+        "whirlpool",
+        "hail",
+        "facade",
+        "dive",
+        "iron-defense",
+        "water-pulse",
+        "brine",
+        "aqua-ring",
+        "aqua-tail",
+        "giga-impact",
+        "coil",
+        "scald",
+        "shell-smash",
+        "draining-kiss"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png"
+}

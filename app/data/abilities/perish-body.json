@@ -1,0 +1,7 @@
+{
+    "name": "perish-body",
+    "effect_description": "When the Pok\u00e9mon with Perish Body is hit with a contact move, both the attacker and the Pok\u00e9mon with Perish Body will faint in three turns.",
+    "pokemon": [
+        "cursola"
+    ]
+}

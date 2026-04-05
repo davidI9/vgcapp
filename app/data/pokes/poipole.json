@@ -1,0 +1,53 @@
+{
+    "id": 803,
+    "name": "poipole",
+    "species": "poipole",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "poison"
+    ],
+    "base_stats": {
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "special-attack": 73,
+        "special-defense": 67,
+        "speed": 73
+    },
+    "bst": 420,
+    "abilities": [
+        "beast-boost"
+    ],
+    "moves": [
+        "fury-attack",
+        "pin-missile",
+        "growl",
+        "acid",
+        "peck",
+        "toxic",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "sludge-bomb",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "facade",
+        "helping-hand",
+        "gastro-acid",
+        "toxic-spikes",
+        "poison-jab",
+        "dragon-pulse",
+        "nasty-plot",
+        "gunk-shot",
+        "venoshock",
+        "sludge-wave",
+        "round",
+        "fell-stinger",
+        "venom-drench"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png"
+}

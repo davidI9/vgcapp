@@ -1,0 +1,9 @@
+{
+    "name": "purifying-salt",
+    "effect_description": "The Pok\u00e9mon\u2019s pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.",
+    "pokemon": [
+        "nacli",
+        "naclstack",
+        "garganacl"
+    ]
+}

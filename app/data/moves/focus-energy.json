@@ -1,0 +1,7 @@
+{
+    "name": "focus-energy",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User\u2019s critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.  This effect is passed on by baton pass."
+}

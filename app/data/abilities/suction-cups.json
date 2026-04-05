@@ -1,0 +1,11 @@
+{
+    "name": "suction-cups",
+    "effect_description": "This Pok\u00e9mon cannot be forced out of battle by moves such as whirlwind.  dragon tail and circle throw still inflict damage against this Pok\u00e9mon.  Overworld: If the lead Pok\u00e9mon has this ability, the success rate while fishing is increased.",
+    "pokemon": [
+        "octillery",
+        "lileep",
+        "cradily",
+        "inkay",
+        "malamar"
+    ]
+}

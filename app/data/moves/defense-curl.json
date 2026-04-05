@@ -1,0 +1,7 @@
+{
+    "name": "defense-curl",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises user\u2019s Defense by one stage.  After this move is used, the power of ice ball and rollout are doubled until the user leaves the field."
+}

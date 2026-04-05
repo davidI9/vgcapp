@@ -1,0 +1,7 @@
+{
+    "name": "noble-roar",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Attack and Special Attack by one stage."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "crafty-shield",
+    "type": "fairy",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Protects all friendly Pok\u00e9mon from non-damaging moves for the rest of the turn.  Unlike other blocking moves, this move may be used consecutively without its chance of success falling."
+}

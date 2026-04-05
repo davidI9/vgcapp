@@ -1,0 +1,7 @@
+{
+    "name": "facade",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power."
+}

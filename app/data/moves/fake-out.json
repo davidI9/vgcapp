@@ -1,0 +1,7 @@
+{
+    "name": "fake-out",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user\u2019s first turn after entering the field."
+}

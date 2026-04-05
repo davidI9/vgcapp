@@ -1,0 +1,7 @@
+{
+    "name": "dragon-pulse",
+    "type": "dragon",
+    "power": 85,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

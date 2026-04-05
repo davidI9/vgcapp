@@ -1,0 +1,7 @@
+{
+    "name": "iron-head",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."
+}

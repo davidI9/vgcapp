@@ -1,0 +1,7 @@
+{
+    "name": "payback",
+    "type": "dark",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power."
+}

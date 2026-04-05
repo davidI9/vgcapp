@@ -1,0 +1,7 @@
+{
+    "name": "triple-axel",
+    "type": "ice",
+    "power": 20,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage."
+}

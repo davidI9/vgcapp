@@ -1,0 +1,7 @@
+{
+    "name": "hyper-beam",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

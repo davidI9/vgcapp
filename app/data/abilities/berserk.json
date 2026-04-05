@@ -1,0 +1,8 @@
+{
+    "name": "berserk",
+    "effect_description": "Whenever this Pok\u00e9mon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.",
+    "pokemon": [
+        "drampa",
+        "moltres-galar"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "hospitality",
+    "effect_description": "When the Pok\u00e9mon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP.",
+    "pokemon": [
+        "poltchageist",
+        "sinistcha"
+    ]
+}

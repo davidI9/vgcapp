@@ -1,0 +1,7 @@
+{
+    "name": "circle-throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage, then switches the target out for another of its trainer\u2019s Pok\u00e9mon, selected at random.  If the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok\u00e9mon, it will not be switched out.  If the target is a wild Pok\u00e9mon, the battle ends instead."
+}

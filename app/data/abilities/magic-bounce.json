@@ -1,0 +1,16 @@
+{
+    "name": "magic-bounce",
+    "effect_description": "When this Pok\u00e9mon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pok\u00e9mon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.",
+    "pokemon": [
+        "natu",
+        "xatu",
+        "espeon",
+        "hatenna",
+        "hattrem",
+        "hatterene",
+        "absol-mega",
+        "sableye-mega",
+        "diancie-mega",
+        "hatterene-gmax"
+    ]
+}

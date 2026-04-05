@@ -1,0 +1,13 @@
+{
+    "name": "light-metal",
+    "effect_description": "This Pok\u00e9mon has half the usual weight for its species.",
+    "pokemon": [
+        "scizor",
+        "beldum",
+        "metang",
+        "metagross",
+        "registeel",
+        "duraludon",
+        "duraludon-gmax"
+    ]
+}

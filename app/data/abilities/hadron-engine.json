@@ -1,0 +1,11 @@
+{
+    "name": "hadron-engine",
+    "effect_description": "Turns the ground into Electric Terrain when the Pok\u00e9mon enters a battle. The futuristic engine within the Pok\u00e9mon also boosts its Sp. Atk stat on Electric Terrain.",
+    "pokemon": [
+        "miraidon",
+        "miraidon-low-power-mode",
+        "miraidon-drive-mode",
+        "miraidon-aquatic-mode",
+        "miraidon-glide-mode"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "smart-strike",
+    "type": "steel",
+    "power": 70,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

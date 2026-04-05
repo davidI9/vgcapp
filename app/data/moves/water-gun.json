@@ -1,0 +1,7 @@
+{
+    "name": "water-gun",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

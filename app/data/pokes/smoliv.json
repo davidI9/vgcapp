@@ -1,0 +1,62 @@
+{
+    "id": 928,
+    "name": "smoliv",
+    "species": "smoliv",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "grass",
+        "normal"
+    ],
+    "base_stats": {
+        "hp": 41,
+        "attack": 35,
+        "defense": 45,
+        "special-attack": 58,
+        "special-defense": 51,
+        "speed": 30
+    },
+    "bst": 260,
+    "abilities": [
+        "early-bird",
+        "harvest"
+    ],
+    "moves": [
+        "tackle",
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "growth",
+        "razor-leaf",
+        "solar-beam",
+        "swift",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "sweet-scent",
+        "synthesis",
+        "sunny-day",
+        "memento",
+        "facade",
+        "helping-hand",
+        "weather-ball",
+        "bullet-seed",
+        "magical-leaf",
+        "seed-bomb",
+        "energy-ball",
+        "earth-power",
+        "leaf-storm",
+        "grass-knot",
+        "grassy-terrain",
+        "strength-sap",
+        "solar-blade",
+        "terrain-pulse",
+        "tera-blast",
+        "trailblaze"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
+}

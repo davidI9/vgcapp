@@ -1,0 +1,19 @@
+{
+    "name": "strong-jaw",
+    "effect_description": "Strengthens biting moves to 1.5\u00d7 their power.",
+    "pokemon": [
+        "tyrunt",
+        "tyrantrum",
+        "yungoos",
+        "gumshoos",
+        "bruxish",
+        "chewtle",
+        "drednaw",
+        "boltund",
+        "dracovish",
+        "sharpedo-mega",
+        "gumshoos-totem",
+        "drednaw-gmax",
+        "avalugg-hisui"
+    ]
+}

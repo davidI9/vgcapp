@@ -1,0 +1,7 @@
+{
+    "name": "heal-pulse",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Heals the target for half its max HP."
+}

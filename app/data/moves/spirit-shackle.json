@@ -1,0 +1,7 @@
+{
+    "name": "spirit-shackle",
+    "type": "ghost",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Traps the target."
+}

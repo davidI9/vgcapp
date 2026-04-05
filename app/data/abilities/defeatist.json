@@ -1,0 +1,8 @@
+{
+    "name": "defeatist",
+    "effect_description": "This Pok\u00e9mon's Attack and Special Attack are halved when it has half its HP or less.",
+    "pokemon": [
+        "archen",
+        "archeops"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "parabolic-charge",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 100,
+    "effect_description": "Heals the user for half the total damage dealt to all targets."
+}

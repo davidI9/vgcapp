@@ -1,0 +1,8 @@
+{
+    "name": "supersweet-syrup",
+    "effect_description": "A sickly sweet scent spreads across the field the first time the Pok\u00e9mon enters a battle, lowering the evasiveness of opposing Pok\u00e9mon.",
+    "pokemon": [
+        "dipplin",
+        "hydrapple"
+    ]
+}

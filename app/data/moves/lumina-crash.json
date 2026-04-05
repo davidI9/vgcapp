@@ -1,0 +1,7 @@
+{
+    "name": "lumina-crash",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat."
+}

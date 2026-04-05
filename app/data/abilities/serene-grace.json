@@ -1,0 +1,21 @@
+{
+    "name": "serene-grace",
+    "effect_description": "This Pok\u00e9mon's moves have twice their usual effect chance.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected.  secret power is unaffected.",
+    "pokemon": [
+        "chansey",
+        "togepi",
+        "togetic",
+        "dunsparce",
+        "blissey",
+        "jirachi",
+        "happiny",
+        "togekiss",
+        "deerling",
+        "sawsbuck",
+        "meloetta-aria",
+        "dudunsparce-two-segment",
+        "shaymin-sky",
+        "meloetta-pirouette",
+        "dudunsparce-three-segment"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "battle-armor",
+    "effect_description": "Moves cannot score critical hits against this Pok\u00e9mon.  This ability functions identically to shell armor.",
+    "pokemon": [
+        "cubone",
+        "marowak",
+        "kabuto",
+        "kabutops",
+        "anorith",
+        "armaldo",
+        "skorupi",
+        "drapion",
+        "type-null",
+        "perrserker",
+        "falinks"
+    ]
+}

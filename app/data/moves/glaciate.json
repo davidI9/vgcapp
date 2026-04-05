@@ -1,0 +1,7 @@
+{
+    "name": "glaciate",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Lowers the target\u2019s Speed by one stage."
+}

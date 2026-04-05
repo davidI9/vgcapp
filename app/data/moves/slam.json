@@ -1,0 +1,7 @@
+{
+    "name": "slam",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 75,
+    "effect_description": "Inflicts regular damage."
+}

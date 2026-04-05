@@ -1,0 +1,7 @@
+{
+    "name": "petal-blizzard",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

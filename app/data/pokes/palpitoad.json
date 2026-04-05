@@ -1,0 +1,63 @@
+{
+    "id": 536,
+    "name": "palpitoad",
+    "species": "palpitoad",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "base_stats": {
+        "hp": 75,
+        "attack": 65,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 69
+    },
+    "bst": 384,
+    "abilities": [
+        "swift-swim",
+        "hydration",
+        "water-absorb"
+    ],
+    "moves": [
+        "growl",
+        "supersonic",
+        "acid",
+        "hydro-pump",
+        "surf",
+        "bubble-beam",
+        "screech",
+        "rest",
+        "substitute",
+        "snore",
+        "flail",
+        "protect",
+        "sludge-bomb",
+        "icy-wind",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "uproar",
+        "hail",
+        "facade",
+        "hyper-voice",
+        "weather-ball",
+        "muddy-water",
+        "bounce",
+        "mud-shot",
+        "aqua-ring",
+        "earth-power",
+        "power-whip",
+        "stealth-rock",
+        "sludge-wave",
+        "round",
+        "echoed-voice",
+        "scald",
+        "bulldoze",
+        "venom-drench"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+}

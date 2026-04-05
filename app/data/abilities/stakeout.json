@@ -1,0 +1,15 @@
+{
+    "name": "stakeout",
+    "effect_description": "This Pok\u00e9mon's moves have double power against Pok\u00e9mon that switched in this turn.",
+    "pokemon": [
+        "yungoos",
+        "gumshoos",
+        "nickit",
+        "thievul",
+        "tarountula",
+        "spidops",
+        "maschiff",
+        "mabosstiff",
+        "gumshoos-totem"
+    ]
+}

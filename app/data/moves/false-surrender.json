@@ -1,0 +1,7 @@
+{
+    "name": "false-surrender",
+    "type": "dark",
+    "power": 80,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

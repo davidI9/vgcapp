@@ -1,0 +1,9 @@
+{
+    "name": "thermal-exchange",
+    "effect_description": "Boosts the Attack stat when the Pok\u00e9mon is hit by a Fire-type move. The Pok\u00e9mon also cannot be burned.",
+    "pokemon": [
+        "frigibax",
+        "arctibax",
+        "baxcalibur"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "prankster",
+    "effect_description": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+    "pokemon": [
+        "murkrow",
+        "sableye",
+        "volbeat",
+        "illumise",
+        "riolu",
+        "purrloin",
+        "liepard",
+        "cottonee",
+        "whimsicott",
+        "tornadus-incarnate",
+        "thundurus-incarnate",
+        "meowstic-male",
+        "klefki",
+        "impidimp",
+        "morgrem",
+        "grimmsnarl",
+        "shroodle",
+        "grafaiai",
+        "banette-mega",
+        "grimmsnarl-gmax"
+    ]
+}

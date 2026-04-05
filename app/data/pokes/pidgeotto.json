@@ -1,0 +1,59 @@
+{
+    "id": 17,
+    "name": "pidgeotto",
+    "species": "pidgeotto",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "base_stats": {
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 71
+    },
+    "bst": 349,
+    "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+    ],
+    "moves": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "sand-attack",
+        "tackle",
+        "agility",
+        "quick-attack",
+        "double-team",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "swagger",
+        "steel-wing",
+        "attract",
+        "sleep-talk",
+        "twister",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "feather-dance",
+        "aerial-ace",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "defog",
+        "work-up",
+        "hurricane"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+}

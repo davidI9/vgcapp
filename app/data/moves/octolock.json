@@ -1,0 +1,7 @@
+{
+    "name": "octolock",
+    "type": "fighting",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "The user locks the target in and prevents it from fleeing. This move also lowers the target\u2019s Defense and Sp. Def every turn."
+}

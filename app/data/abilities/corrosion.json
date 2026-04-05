@@ -1,0 +1,11 @@
+{
+    "name": "corrosion",
+    "effect_description": "This Pok\u00e9mon's moves and item ignore the usual immunity of Poison and Steel Pok\u00e9mon when attempting to inflict poison.",
+    "pokemon": [
+        "salandit",
+        "salazzle",
+        "glimmet",
+        "glimmora",
+        "salazzle-totem"
+    ]
+}

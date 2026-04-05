@@ -1,0 +1,7 @@
+{
+    "name": "thunder-wave",
+    "type": "electric",
+    "power": null,
+    "accuracy": 90,
+    "effect_description": "Paralyzes the target."
+}

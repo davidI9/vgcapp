@@ -1,0 +1,62 @@
+{
+    "id": 524,
+    "name": "roggenrola",
+    "species": "roggenrola",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "rock"
+    ],
+    "base_stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "bst": 280,
+    "abilities": [
+        "sturdy",
+        "weak-armor",
+        "sand-force"
+    ],
+    "moves": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "take-down",
+        "earthquake",
+        "harden",
+        "explosion",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "curse",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "iron-defense",
+        "rock-blast",
+        "gravity",
+        "earth-power",
+        "flash-cannon",
+        "stone-edge",
+        "stealth-rock",
+        "wide-guard",
+        "autotomize",
+        "smack-down",
+        "heavy-slam",
+        "round",
+        "bulldoze",
+        "body-press",
+        "meteor-beam"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+}

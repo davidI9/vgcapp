@@ -1,0 +1,8 @@
+{
+    "name": "pastel-veil",
+    "effect_description": "Prevents the Pok\u00e9mon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.",
+    "pokemon": [
+        "ponyta-galar",
+        "rapidash-galar"
+    ]
+}

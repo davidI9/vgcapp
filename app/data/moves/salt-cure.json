@@ -1,0 +1,7 @@
+{
+    "name": "salt-cure",
+    "type": "rock",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "tera-shell",
+    "effect_description": "The Pok\u00e9mon\u2019s shell contains the powers of each type. All damage-dealing moves that hit the Pok\u00e9mon when its HP is full will not be very effective.",
+    "pokemon": [
+        "terapagos-terastal"
+    ]
+}

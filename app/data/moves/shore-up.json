@@ -1,0 +1,7 @@
+{
+    "name": "shore-up",
+    "type": "ground",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Heals the user for \u00bd its max HP.  During a sandstorm, the healing is increased to \u2154."
+}

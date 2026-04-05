@@ -1,0 +1,7 @@
+{
+    "name": "close-combat",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage, then lowers the user\u2019s Defense and Special Defense by one stage each."
+}

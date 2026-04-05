@@ -1,0 +1,7 @@
+{
+    "name": "magic-room",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "For five turns (including this one), passive effects of held items are ignored, and Pok\u00e9mon will not use their held items."
+}

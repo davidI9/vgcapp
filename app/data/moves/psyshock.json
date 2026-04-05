@@ -1,0 +1,7 @@
+{
+    "name": "psyshock",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Damage calculation always uses the target\u2019s Defense, regardless of this move\u2019s damage class."
+}

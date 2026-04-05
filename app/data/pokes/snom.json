@@ -1,0 +1,43 @@
+{
+    "id": 872,
+    "name": "snom",
+    "species": "snom",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "ice",
+        "bug"
+    ],
+    "base_stats": {
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "special-attack": 45,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "bst": 185,
+    "abilities": [
+        "shield-dust",
+        "ice-scales"
+    ],
+    "moves": [
+        "rest",
+        "substitute",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "sleep-talk",
+        "mirror-coat",
+        "facade",
+        "icicle-spear",
+        "bug-buzz",
+        "bug-bite",
+        "struggle-bug",
+        "fairy-wind",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+}

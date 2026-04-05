@@ -1,0 +1,7 @@
+{
+    "name": "splash",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Does nothing.  This move cannot be used while gravity is in effect."
+}

@@ -1,0 +1,9 @@
+{
+    "name": "galvanize",
+    "effect_description": "When this Pok\u00e9mon uses a Normal moves, that move is Electric its power is 1.2\u00d7.",
+    "pokemon": [
+        "geodude-alola",
+        "graveler-alola",
+        "golem-alola"
+    ]
+}

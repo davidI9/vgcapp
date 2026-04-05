@@ -1,0 +1,7 @@
+{
+    "name": "rock-climb",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target."
+}

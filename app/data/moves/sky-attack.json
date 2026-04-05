@@ -1,0 +1,7 @@
+{
+    "name": "sky-attack",
+    "type": "flying",
+    "power": 140,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a $effect_chance% chance to make the target flinch.  This move cannot be selected by sleep talk."
+}

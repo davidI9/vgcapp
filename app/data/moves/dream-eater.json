@@ -1,0 +1,7 @@
+{
+    "name": "dream-eater",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Fails if not used on a sleeping Pok\u00e9mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

@@ -1,0 +1,33 @@
+{
+    "id": 360,
+    "name": "wynaut",
+    "species": "wynaut",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "psychic"
+    ],
+    "base_stats": {
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special-attack": 23,
+        "special-defense": 48,
+        "speed": 23
+    },
+    "bst": 260,
+    "abilities": [
+        "shadow-tag",
+        "telepathy"
+    ],
+    "moves": [
+        "counter",
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png"
+}

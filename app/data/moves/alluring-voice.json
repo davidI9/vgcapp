@@ -1,0 +1,7 @@
+{
+    "name": "alluring-voice",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+}

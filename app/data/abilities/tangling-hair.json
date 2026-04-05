@@ -1,0 +1,8 @@
+{
+    "name": "tangling-hair",
+    "effect_description": "When this Pok\u00e9mon takes regular damage from a contact move, the attacking Pok\u00e9mon's Speed lowers by one stage.",
+    "pokemon": [
+        "diglett-alola",
+        "dugtrio-alola"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "poison-touch",
+    "effect_description": "This Pok\u00e9mon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.",
+    "pokemon": [
+        "grimer",
+        "muk",
+        "croagunk",
+        "toxicroak",
+        "seismitoad",
+        "skrelp",
+        "dragalge",
+        "sneasler",
+        "grafaiai",
+        "grimer-alola",
+        "muk-alola"
+    ]
+}

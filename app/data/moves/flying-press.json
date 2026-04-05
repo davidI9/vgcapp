@@ -1,0 +1,7 @@
+{
+    "name": "flying-press",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  For the purposes of type effectiveness, this move is both fighting- and flying-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target\u2019s types.  For all other purposes, this move is pure Fighting-type.  If this move\u2019s type is changed, its Fighting typing is overwritten, and its secondary type remains Flying.  If the target has used minimize since entering battle, this move has double power and will never miss."
+}

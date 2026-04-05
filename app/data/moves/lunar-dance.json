@@ -1,0 +1,7 @@
+{
+    "name": "lunar-dance",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User faints.  Its replacement\u2019s HP and PP are fully restored, and any major status effect is removed."
+}

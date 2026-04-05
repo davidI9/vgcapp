@@ -1,0 +1,7 @@
+{
+    "name": "refresh",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Removes a burn, paralysis, or poison from the user."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "fire-blast",
+    "type": "fire",
+    "power": 110,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

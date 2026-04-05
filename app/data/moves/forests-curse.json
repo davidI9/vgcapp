@@ -1,0 +1,7 @@
+{
+    "name": "forests-curse",
+    "type": "grass",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Adds grass to the target\u2019s types."
+}

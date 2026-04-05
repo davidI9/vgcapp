@@ -1,0 +1,7 @@
+{
+    "name": "night-daze",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target\u2019s accuracy by one stage."
+}

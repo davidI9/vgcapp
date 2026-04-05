@@ -1,0 +1,32 @@
+{
+    "name": "overcoat",
+    "effect_description": "This Pok\u00e9mon does not take damage from weather.",
+    "pokemon": [
+        "shellder",
+        "cloyster",
+        "pineco",
+        "forretress",
+        "shelgon",
+        "burmy",
+        "wormadam-plant",
+        "sewaddle",
+        "swadloon",
+        "leavanny",
+        "solosis",
+        "duosion",
+        "reuniclus",
+        "escavalier",
+        "shelmet",
+        "vullaby",
+        "mandibuzz",
+        "jangmo-o",
+        "hakamo-o",
+        "kommo-o",
+        "varoom",
+        "revavroom",
+        "wormadam-sandy",
+        "wormadam-trash",
+        "kommo-o-totem",
+        "enamorus-therian"
+    ]
+}

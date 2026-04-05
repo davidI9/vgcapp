@@ -1,0 +1,7 @@
+{
+    "name": "head-charge",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil."
+}

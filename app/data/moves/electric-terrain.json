@@ -1,0 +1,7 @@
+{
+    "name": "electric-terrain",
+    "type": "electric",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "For five turns, prevents all Pok\u00e9mon on the ground from sleeping and strengthens their electric moves to 1.5\u00d7 their power.  Changes nature power to thunderbolt."
+}

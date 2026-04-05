@@ -1,0 +1,7 @@
+{
+    "name": "high-horsepower",
+    "type": "ground",
+    "power": 95,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage."
+}

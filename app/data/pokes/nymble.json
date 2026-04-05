@@ -1,0 +1,56 @@
+{
+    "id": 919,
+    "name": "nymble",
+    "species": "nymble",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "bug"
+    ],
+    "base_stats": {
+        "hp": 33,
+        "attack": 46,
+        "defense": 40,
+        "special-attack": 21,
+        "special-defense": 25,
+        "speed": 45
+    },
+    "bst": 210,
+    "abilities": [
+        "swarm",
+        "tinted-lens"
+    ],
+    "moves": [
+        "double-kick",
+        "tackle",
+        "take-down",
+        "leer",
+        "counter",
+        "agility",
+        "screech",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "astonish",
+        "feint",
+        "u-turn",
+        "assurance",
+        "sucker-punch",
+        "x-scissor",
+        "bug-buzz",
+        "bug-bite",
+        "struggle-bug",
+        "first-impression",
+        "skitter-smack",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
+}

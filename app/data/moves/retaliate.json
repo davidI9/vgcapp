@@ -1,0 +1,7 @@
+{
+    "name": "retaliate",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If a friendly Pok\u00e9mon fainted on the previous turn, this move has double power."
+}

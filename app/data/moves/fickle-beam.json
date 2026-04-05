@@ -1,0 +1,7 @@
+{
+    "name": "fickle-beam",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power."
+}

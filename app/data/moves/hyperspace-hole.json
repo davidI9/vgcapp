@@ -1,0 +1,7 @@
+{
+    "name": "hyperspace-hole",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Bypasses and removes any protection effect on the target."
+}

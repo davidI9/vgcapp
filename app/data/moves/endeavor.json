@@ -1,0 +1,7 @@
+{
+    "name": "endeavor",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Inflicts exactly enough damage to lower the target\u2019s HP to equal the user\u2019s.  If the target\u2019s HP is not higher than the user\u2019s, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+}

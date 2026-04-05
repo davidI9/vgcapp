@@ -1,0 +1,15 @@
+{
+    "name": "super-luck",
+    "effect_description": "This Pok\u00e9mon's moves have critical hit rates one stage higher than normal.",
+    "pokemon": [
+        "togepi",
+        "togetic",
+        "murkrow",
+        "absol",
+        "honchkrow",
+        "togekiss",
+        "pidove",
+        "tranquill",
+        "unfezant"
+    ]
+}

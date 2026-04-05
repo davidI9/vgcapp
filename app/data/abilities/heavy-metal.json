@@ -1,0 +1,16 @@
+{
+    "name": "heavy-metal",
+    "effect_description": "This Pok\u00e9mon has double the usual weight for its species.",
+    "pokemon": [
+        "aron",
+        "lairon",
+        "aggron",
+        "bronzor",
+        "bronzong",
+        "cufant",
+        "copperajah",
+        "duraludon",
+        "copperajah-gmax",
+        "duraludon-gmax"
+    ]
+}

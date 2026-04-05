@@ -1,0 +1,10 @@
+{
+    "name": "solid-rock",
+    "effect_description": "This Pok\u00e9mon takes 0.75\u00d7 as much damage from moves that are super effective against it.  This ability functions identically to filter.",
+    "pokemon": [
+        "camerupt",
+        "rhyperior",
+        "tirtouga",
+        "carracosta"
+    ]
+}

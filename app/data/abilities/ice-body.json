@@ -1,0 +1,27 @@
+{
+    "name": "ice-body",
+    "effect_description": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+    "pokemon": [
+        "seel",
+        "dewgong",
+        "snorunt",
+        "glalie",
+        "spheal",
+        "sealeo",
+        "walrein",
+        "regice",
+        "glaceon",
+        "vanillite",
+        "vanillish",
+        "vanilluxe",
+        "bergmite",
+        "avalugg",
+        "mr-rime",
+        "arctovish",
+        "frigibax",
+        "arctibax",
+        "baxcalibur",
+        "mr-mime-galar",
+        "avalugg-hisui"
+    ]
+}

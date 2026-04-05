@@ -1,0 +1,7 @@
+{
+    "name": "armor-cannon",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "The user shoots its own armor out as blazing projectiles. This also lowers the user\u2019s Defense and Sp. Def stats."
+}

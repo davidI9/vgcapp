@@ -1,0 +1,9 @@
+{
+    "name": "mega-launcher",
+    "effect_description": "Strengthens aura and pulse moves to 1.5\u00d7 their power.",
+    "pokemon": [
+        "clauncher",
+        "clawitzer",
+        "blastoise-mega"
+    ]
+}

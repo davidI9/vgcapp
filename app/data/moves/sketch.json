@@ -1,0 +1,7 @@
+{
+    "name": "sketch",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Permanently replaces itself with the target\u2019s last used move.  If that move is chatter or struggle, this move will fail.  This move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "shadow-shield",
+    "effect_description": "When this Pok\u00e9mon has full HP, regular damage (not fixed damage!) from moves is halved.  This ability cannot be nullified.",
+    "pokemon": [
+        "lunala"
+    ]
+}

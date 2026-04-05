@@ -1,0 +1,7 @@
+{
+    "name": "round",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If round has already been used this turn, this move\u2019s power is doubled.  After this move is used, any other Pok\u00e9mon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pok\u00e9mon using other moves will then continue to act as usual."
+}

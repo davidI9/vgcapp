@@ -1,0 +1,29 @@
+{
+    "name": "hydration",
+    "effect_description": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+    "pokemon": [
+        "seel",
+        "dewgong",
+        "lapras",
+        "vaporeon",
+        "smoochum",
+        "wingull",
+        "barboach",
+        "whiscash",
+        "gorebyss",
+        "luvdisc",
+        "phione",
+        "manaphy",
+        "tympole",
+        "palpitoad",
+        "ducklett",
+        "swanna",
+        "alomomola",
+        "shelmet",
+        "accelgor",
+        "goomy",
+        "sliggoo",
+        "goodra",
+        "lapras-gmax"
+    ]
+}

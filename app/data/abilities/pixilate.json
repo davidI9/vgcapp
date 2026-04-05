@@ -1,0 +1,9 @@
+{
+    "name": "pixilate",
+    "effect_description": "Turns the bearer's normal-type moves into fairy moves.  Moves changed by this ability have 1.3\u00d7 their power.",
+    "pokemon": [
+        "sylveon",
+        "gardevoir-mega",
+        "altaria-mega"
+    ]
+}

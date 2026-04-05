@@ -1,0 +1,7 @@
+{
+    "name": "last-respects",
+    "type": "ghost",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
+}

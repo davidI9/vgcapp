@@ -1,0 +1,7 @@
+{
+    "name": "dual-wingbeat",
+    "type": "flying",
+    "power": 40,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage."
+}

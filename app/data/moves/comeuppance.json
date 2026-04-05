@@ -1,0 +1,7 @@
+{
+    "name": "comeuppance",
+    "type": "dark",
+    "power": 1,
+    "accuracy": 100,
+    "effect_description": "The user retaliates with much greater force against the opponent that last inflicted damage on it."
+}

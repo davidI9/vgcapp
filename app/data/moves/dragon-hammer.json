@@ -1,0 +1,7 @@
+{
+    "name": "dragon-hammer",
+    "type": "dragon",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

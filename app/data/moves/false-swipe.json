@@ -1,0 +1,7 @@
+{
+    "name": "false-swipe",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Will not reduce the target\u2019s HP below 1."
+}

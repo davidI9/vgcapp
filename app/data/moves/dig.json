@@ -1,0 +1,7 @@
+{
+    "name": "dig",
+    "type": "ground",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.  During the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.  The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.  This move cannot be selected by sleep talk."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "triple-kick",
+    "type": "fighting",
+    "power": 10,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate accuracy check, and this move stops if a hit misses.  skill link does not apply."
+}

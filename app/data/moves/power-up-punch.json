@@ -1,0 +1,7 @@
+{
+    "name": "power-up-punch",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Raises the user\u2019s Attack by one stage."
+}

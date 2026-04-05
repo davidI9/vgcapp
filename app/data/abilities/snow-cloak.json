@@ -1,0 +1,21 @@
+{
+    "name": "snow-cloak",
+    "effect_description": "During hail, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take hail damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in snow.",
+    "pokemon": [
+        "articuno",
+        "swinub",
+        "piloswine",
+        "glaceon",
+        "mamoswine",
+        "froslass",
+        "vanillite",
+        "vanillish",
+        "cubchoo",
+        "beartic",
+        "cetoddle",
+        "sandshrew-alola",
+        "sandslash-alola",
+        "vulpix-alola",
+        "ninetales-alola"
+    ]
+}

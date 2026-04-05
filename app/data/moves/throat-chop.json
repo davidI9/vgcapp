@@ -1,0 +1,7 @@
+{
+    "name": "throat-chop",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves."
+}

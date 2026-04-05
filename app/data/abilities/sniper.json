@@ -1,0 +1,24 @@
+{
+    "name": "sniper",
+    "effect_description": "This Pok\u00e9mon inflicts triple damage with critical hits, rather than the usual double damage.",
+    "pokemon": [
+        "beedrill",
+        "spearow",
+        "fearow",
+        "horsea",
+        "seadra",
+        "spinarak",
+        "ariados",
+        "remoraid",
+        "octillery",
+        "kingdra",
+        "skorupi",
+        "drapion",
+        "binacle",
+        "barbaracle",
+        "sobble",
+        "drizzile",
+        "inteleon",
+        "inteleon-gmax"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "clear-body",
+    "effect_description": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.  This ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.  This ability functions identically to white smoke in battle.",
+    "pokemon": [
+        "tentacool",
+        "tentacruel",
+        "beldum",
+        "metang",
+        "metagross",
+        "regirock",
+        "regice",
+        "registeel",
+        "klink",
+        "klang",
+        "klinklang",
+        "carbink",
+        "diancie",
+        "dreepy",
+        "drakloak",
+        "dragapult",
+        "nacli",
+        "naclstack",
+        "garganacl"
+    ]
+}

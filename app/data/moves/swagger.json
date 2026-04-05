@@ -1,0 +1,7 @@
+{
+    "name": "swagger",
+    "type": "normal",
+    "power": null,
+    "accuracy": 85,
+    "effect_description": "Raises the target\u2019s Attack by two stages, then confuses it.  If the target\u2019s Attack cannot be raised by two stages, the confusion is not applied."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "inferno",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 50,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

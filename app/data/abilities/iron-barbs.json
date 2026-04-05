@@ -1,0 +1,10 @@
+{
+    "name": "iron-barbs",
+    "effect_description": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to rough skin.",
+    "pokemon": [
+        "ferroseed",
+        "ferrothorn",
+        "togedemaru",
+        "togedemaru-totem"
+    ]
+}

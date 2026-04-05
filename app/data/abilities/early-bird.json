@@ -1,0 +1,22 @@
+{
+    "name": "early-bird",
+    "effect_description": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.  If this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+    "pokemon": [
+        "doduo",
+        "dodrio",
+        "kangaskhan",
+        "ledyba",
+        "ledian",
+        "natu",
+        "xatu",
+        "sunkern",
+        "sunflora",
+        "girafarig",
+        "houndour",
+        "houndoom",
+        "seedot",
+        "nuzleaf",
+        "smoliv",
+        "dolliv"
+    ]
+}

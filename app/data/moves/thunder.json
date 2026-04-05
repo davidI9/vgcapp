@@ -1,0 +1,7 @@
+{
+    "name": "thunder",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 70,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.  During rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.  During sunny day, this move has 50% accuracy."
+}

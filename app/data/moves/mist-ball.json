@@ -1,0 +1,7 @@
+{
+    "name": "mist-ball",
+    "type": "psychic",
+    "power": 95,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target\u2019s Special Attack by one stage."
+}

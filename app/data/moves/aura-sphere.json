@@ -1,0 +1,7 @@
+{
+    "name": "aura-sphere",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

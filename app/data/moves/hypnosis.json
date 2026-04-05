@@ -1,0 +1,7 @@
+{
+    "name": "hypnosis",
+    "type": "psychic",
+    "power": null,
+    "accuracy": 60,
+    "effect_description": "Puts the target to sleep."
+}

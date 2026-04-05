@@ -1,0 +1,7 @@
+{
+    "name": "swift",
+    "type": "normal",
+    "power": 60,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

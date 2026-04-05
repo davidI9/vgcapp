@@ -1,0 +1,7 @@
+{
+    "name": "rock-throw",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "sword-of-ruin",
+    "effect_description": "The power of the Pok\u00e9mon\u2019s ruinous sword lowers the Defense stats of all Pok\u00e9mon except itself.",
+    "pokemon": [
+        "chien-pao"
+    ]
+}

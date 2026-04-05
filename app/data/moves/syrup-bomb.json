@@ -1,0 +1,7 @@
+{
+    "name": "syrup-bomb",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 85,
+    "effect_description": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+}

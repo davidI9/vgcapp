@@ -1,0 +1,7 @@
+{
+    "name": "electrify",
+    "type": "electric",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Changes the target\u2019s move\u2019s type to electric if it hasn\u2019t moved yet this turn."
+}

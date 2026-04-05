@@ -1,0 +1,7 @@
+{
+    "name": "haze",
+    "type": "ice",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Removes stat, accuracy, and evasion modifiers from every Pok\u00e9mon on the field.  This does not count as a stat reduction for the purposes of clear body or white smoke."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "tickle",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Attack and Defense by one stage."
+}

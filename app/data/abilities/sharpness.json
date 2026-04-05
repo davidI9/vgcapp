@@ -1,0 +1,10 @@
+{
+    "name": "sharpness",
+    "effect_description": "Increases the power of all 'slicing' moves by 50%.",
+    "pokemon": [
+        "gallade",
+        "kleavor",
+        "veluza",
+        "samurott-hisui"
+    ]
+}

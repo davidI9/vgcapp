@@ -1,0 +1,8 @@
+{
+    "name": "gorilla-tactics",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s Attack stat but only allows the use of the first selected move.",
+    "pokemon": [
+        "darmanitan-galar-standard",
+        "darmanitan-galar-zen"
+    ]
+}

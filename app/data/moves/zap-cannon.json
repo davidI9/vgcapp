@@ -1,0 +1,7 @@
+{
+    "name": "zap-cannon",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 50,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."
+}

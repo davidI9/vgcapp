@@ -1,0 +1,7 @@
+{
+    "name": "gravity",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "For five turns (including this one), all immunities to ground moves are disabled.  For the duration of this effect, the evasion of every Pok\u00e9mon on the field is lowered by two stages.  Cancels the effects of bounce, fly, and sky drop.  Specifically, flying Pok\u00e9mon and those with levitate or that have used magnet rise are no longer immune to ground attacks, arena trap, spikes, or toxic spikes.  bounce, fly, sky drop, high jump kick, jump kick, and splash cannot be used while this move is in effect.  *Bug*: If this move is used during a double or triple battle while Pok\u00e9mon are under the effect of sky drop, Sky Drop\u2019s effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+}

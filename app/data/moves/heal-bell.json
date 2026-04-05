@@ -1,0 +1,7 @@
+{
+    "name": "heal-bell",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Removes major status effects and confusion from every Pok\u00e9mon in the user\u2019s party."
+}

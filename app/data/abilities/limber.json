@@ -1,0 +1,20 @@
+{
+    "name": "limber",
+    "effect_description": "This Pok\u00e9mon cannot be paralyzed.  If a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+    "pokemon": [
+        "persian",
+        "hitmonlee",
+        "ditto",
+        "buneary",
+        "lopunny",
+        "glameow",
+        "purrloin",
+        "liepard",
+        "stunfisk",
+        "hawlucha",
+        "mareanie",
+        "toxapex",
+        "clobbopus",
+        "grapploct"
+    ]
+}

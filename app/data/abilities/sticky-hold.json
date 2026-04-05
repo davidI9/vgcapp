@@ -1,0 +1,16 @@
+{
+    "name": "sticky-hold",
+    "effect_description": "This Pok\u00e9mon's hold item cannot be removed by other Pok\u00e9mon.  Damaging moves that would remove this Pok\u00e9mon's item can still inflict damage against this Pok\u00e9mon, e.g. knock off or pluck.  This Pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.  Overworld: If the lead Pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+    "pokemon": [
+        "grimer",
+        "muk",
+        "gulpin",
+        "swalot",
+        "shellos",
+        "gastrodon",
+        "trubbish",
+        "accelgor",
+        "dipplin",
+        "hydrapple"
+    ]
+}

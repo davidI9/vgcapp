@@ -1,0 +1,7 @@
+{
+    "name": "poison-fang",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to badly poison the target."
+}

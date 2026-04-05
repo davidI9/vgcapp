@@ -1,0 +1,7 @@
+{
+    "name": "endure",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "The user\u2019s HP cannot be lowered below 1 by any means for the remainder of this turn.  If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.  This move cannot be selected by assist or metronome."
+}

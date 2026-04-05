@@ -1,0 +1,7 @@
+{
+    "name": "first-impression",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage. Can only be used on the user\u2019s first turn after entering the field."
+}

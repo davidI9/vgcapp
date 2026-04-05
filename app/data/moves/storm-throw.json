@@ -1,0 +1,7 @@
+{
+    "name": "storm-throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Always scores a critical hit."
+}

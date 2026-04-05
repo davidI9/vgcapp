@@ -1,0 +1,7 @@
+{
+    "name": "superpower",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage, then lowers the user\u2019s Attack and Defense by one stage each."
+}

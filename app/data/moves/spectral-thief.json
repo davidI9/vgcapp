@@ -1,0 +1,7 @@
+{
+    "name": "spectral-thief",
+    "type": "ghost",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Steals the target\u2019s stat increases, then inflicts regular damage.  Will not steal stat increases that would put any of the user\u2019s stats at more than +6; any excess is left on the target.  Stolen increases are affected by abilities as normal."
+}

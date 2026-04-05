@@ -1,0 +1,7 @@
+{
+    "name": "fell-stinger",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Raises the user\u2019s Attack by two stages if it KOs the target."
+}

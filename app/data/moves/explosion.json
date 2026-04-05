@@ -1,0 +1,7 @@
+{
+    "name": "explosion",
+    "type": "normal",
+    "power": 250,
+    "accuracy": 100,
+    "effect_description": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+}

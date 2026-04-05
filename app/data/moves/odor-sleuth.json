@@ -1,0 +1,7 @@
+{
+    "name": "odor-sleuth",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Resets the target\u2019s evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers."
+}

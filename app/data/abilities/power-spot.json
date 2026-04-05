@@ -1,0 +1,7 @@
+{
+    "name": "power-spot",
+    "effect_description": " \"The power of moves used by the allies of the Pok\u00e9mon with Power Spot is increased by 30%.\"",
+    "pokemon": [
+        "stonjourner"
+    ]
+}

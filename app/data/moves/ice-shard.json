@@ -1,0 +1,7 @@
+{
+    "name": "ice-shard",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

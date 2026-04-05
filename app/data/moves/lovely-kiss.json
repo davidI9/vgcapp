@@ -1,0 +1,7 @@
+{
+    "name": "lovely-kiss",
+    "type": "normal",
+    "power": null,
+    "accuracy": 75,
+    "effect_description": "Puts the target to sleep."
+}

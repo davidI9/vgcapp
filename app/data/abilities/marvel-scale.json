@@ -1,0 +1,9 @@
+{
+    "name": "marvel-scale",
+    "effect_description": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Defense.  This bonus does not count as a stat modifier.",
+    "pokemon": [
+        "dratini",
+        "dragonair",
+        "milotic"
+    ]
+}

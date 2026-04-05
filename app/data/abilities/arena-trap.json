@@ -1,0 +1,9 @@
+{
+    "name": "arena-trap",
+    "effect_description": "While this Pok\u00e9mon is in battle, opposing Pok\u00e9mon cannot flee or switch out.  flying-type Pok\u00e9mon and Pok\u00e9mon in the air, e.g. due to levitate or magnet rise, are unaffected.  Pok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+    "pokemon": [
+        "diglett",
+        "dugtrio",
+        "trapinch"
+    ]
+}

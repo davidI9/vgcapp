@@ -1,0 +1,29 @@
+{
+    "name": "leaf-guard",
+    "effect_description": "This Pok\u00e9mon cannot be given a major status ailment during strong sunlight.  This ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pok\u00e9mon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.",
+    "pokemon": [
+        "tangela",
+        "chikorita",
+        "bayleef",
+        "meganium",
+        "hoppip",
+        "skiploom",
+        "jumpluff",
+        "roselia",
+        "budew",
+        "tangrowth",
+        "leafeon",
+        "swadloon",
+        "petilil",
+        "lilligant",
+        "fomantis",
+        "lurantis",
+        "bounsweet",
+        "steenee",
+        "tsareena",
+        "zarude",
+        "lurantis-totem",
+        "zarude-dada",
+        "lilligant-hisui"
+    ]
+}

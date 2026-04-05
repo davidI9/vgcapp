@@ -1,0 +1,11 @@
+{
+    "name": "orichalcum-pulse",
+    "effect_description": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle. The ancient pulse thrumming through the Pok\u00e9mon also boosts its Attack stat in harsh sunlight.",
+    "pokemon": [
+        "koraidon",
+        "koraidon-limited-build",
+        "koraidon-sprinting-build",
+        "koraidon-swimming-build",
+        "koraidon-gliding-build"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "illuminate",
+    "effect_description": "Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.  This ability has no effect in battle.",
+    "pokemon": [
+        "staryu",
+        "starmie",
+        "chinchou",
+        "lanturn",
+        "volbeat",
+        "watchog",
+        "morelull",
+        "shiinotic"
+    ]
+}

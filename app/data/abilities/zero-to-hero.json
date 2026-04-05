@@ -1,0 +1,8 @@
+{
+    "name": "zero-to-hero",
+    "effect_description": "The Pok\u00e9mon transforms into its Hero Form when it switches out.",
+    "pokemon": [
+        "palafin-zero",
+        "palafin-hero"
+    ]
+}

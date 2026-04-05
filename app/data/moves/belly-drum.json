@@ -1,0 +1,7 @@
+{
+    "name": "belly-drum",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail."
+}

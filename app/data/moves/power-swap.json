@@ -1,0 +1,7 @@
+{
+    "name": "power-swap",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User swaps its Attack and Special Attack stat modifiers modifiers with the target."
+}

@@ -1,0 +1,16 @@
+{
+    "name": "protosynthesis",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s most proficient stat in harsh sunlight or if the Pok\u00e9mon is holding Booster Energy.",
+    "pokemon": [
+        "great-tusk",
+        "scream-tail",
+        "brute-bonnet",
+        "flutter-mane",
+        "slither-wing",
+        "sandy-shocks",
+        "roaring-moon",
+        "walking-wake",
+        "gouging-fire",
+        "raging-bolt"
+    ]
+}

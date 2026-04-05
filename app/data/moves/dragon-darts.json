@@ -1,0 +1,7 @@
+{
+    "name": "dragon-darts",
+    "type": "dragon",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "The user attacks twice using Dreepy. If there are two targets, this move hits each target once."
+}

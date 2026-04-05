@@ -1,0 +1,7 @@
+{
+    "name": "vine-whip",
+    "type": "grass",
+    "power": 45,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

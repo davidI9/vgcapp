@@ -1,0 +1,7 @@
+{
+    "name": "revival-blessing",
+    "type": "normal",
+    "power": 0,
+    "accuracy": null,
+    "effect_description": "The user bestows a loving blessing, reviving a party Pok\u00e9mon that has fainted and restoring half that Pok\u00e9mon's max HP."
+}

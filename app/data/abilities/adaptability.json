@@ -1,0 +1,25 @@
+{
+    "name": "adaptability",
+    "effect_description": "This Pok\u00e9mon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5\u00d7.",
+    "pokemon": [
+        "eevee",
+        "corphish",
+        "crawdaunt",
+        "feebas",
+        "porygon-z",
+        "basculin-red-striped",
+        "skrelp",
+        "dragalge",
+        "yungoos",
+        "gumshoos",
+        "basculegion-male",
+        "basculin-blue-striped",
+        "lucario-mega",
+        "beedrill-mega",
+        "gumshoos-totem",
+        "eevee-starter",
+        "eevee-gmax",
+        "basculin-white-striped",
+        "basculegion-female"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "magnet-rise",
+    "type": "electric",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "For five turns, the user is immune to ground moves.  If the user is under the effect of ingrain or has levitate, this move will fail.  This effect is temporarily disabled by and cannot be used during gravity.  This effect is passed on by baton pass."
+}

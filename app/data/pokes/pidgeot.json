@@ -1,0 +1,61 @@
+{
+    "id": 18,
+    "name": "pidgeot",
+    "species": "pidgeot",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "base_stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 101
+    },
+    "bst": 479,
+    "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+    ],
+    "moves": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "sand-attack",
+        "tackle",
+        "hyper-beam",
+        "agility",
+        "quick-attack",
+        "double-team",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "swagger",
+        "steel-wing",
+        "attract",
+        "sleep-talk",
+        "twister",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "feather-dance",
+        "aerial-ace",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "giga-impact",
+        "defog",
+        "work-up",
+        "hurricane"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+}

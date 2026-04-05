@@ -1,0 +1,7 @@
+{
+    "name": "floral-healing",
+    "type": "fairy",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Heals the target for \u00bd its max HP.  If grassy terrain is in effect, heals for \u2154 instead."
+}

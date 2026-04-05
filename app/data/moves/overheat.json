@@ -1,0 +1,7 @@
+{
+    "name": "overheat",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage, then lowers the user\u2019s Special Attack by two stages."
+}

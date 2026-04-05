@@ -1,0 +1,7 @@
+{
+    "name": "blaze-kick",
+    "type": "fire",
+    "power": 85,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  User\u2019s critical hit rate is one level higher when using this move. Has a $effect_chance% chance to burn the target."
+}

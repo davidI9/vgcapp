@@ -1,0 +1,16 @@
+{
+    "name": "quark-drive",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s most proficient stat on Electric Terrain or if the Pok\u00e9mon is holding Booster Energy.",
+    "pokemon": [
+        "iron-treads",
+        "iron-bundle",
+        "iron-hands",
+        "iron-jugulis",
+        "iron-moth",
+        "iron-thorns",
+        "iron-valiant",
+        "iron-leaves",
+        "iron-boulder",
+        "iron-crown"
+    ]
+}

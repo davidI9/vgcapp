@@ -1,0 +1,7 @@
+{
+    "name": "water-spout",
+    "type": "water",
+    "power": 150,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Power increases with the user\u2019s remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+}

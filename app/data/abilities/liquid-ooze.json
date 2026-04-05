@@ -1,0 +1,10 @@
+{
+    "name": "liquid-ooze",
+    "effect_description": "Whenever a Pok\u00e9mon would heal after hitting this Pok\u00e9mon with a leeching move like absorb, it instead loses as many HP as it would usually gain.  dream eater is unaffected.",
+    "pokemon": [
+        "tentacool",
+        "tentacruel",
+        "gulpin",
+        "swalot"
+    ]
+}

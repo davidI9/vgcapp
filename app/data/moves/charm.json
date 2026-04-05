@@ -1,0 +1,7 @@
+{
+    "name": "charm",
+    "type": "fairy",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Attack by two stages."
+}

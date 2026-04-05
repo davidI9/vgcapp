@@ -1,0 +1,7 @@
+{
+    "name": "rks-system",
+    "effect_description": "Changes this Pok\u00e9mon's type to match its held Memory.  This ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.",
+    "pokemon": [
+        "silvally"
+    ]
+}

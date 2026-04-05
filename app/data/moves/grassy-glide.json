@@ -1,0 +1,7 @@
+{
+    "name": "grassy-glide",
+    "type": "grass",
+    "power": 55,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

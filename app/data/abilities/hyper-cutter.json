@@ -1,0 +1,18 @@
+{
+    "name": "hyper-cutter",
+    "effect_description": "This Pok\u00e9mon's Attack cannot be lowered by other Pok\u00e9mon.  This ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pok\u00e9mon can still be passed negative Attack modifiers through heart swap or power swap.",
+    "pokemon": [
+        "krabby",
+        "kingler",
+        "pinsir",
+        "gligar",
+        "mawile",
+        "trapinch",
+        "corphish",
+        "crawdaunt",
+        "gliscor",
+        "crabrawler",
+        "crabominable",
+        "kingler-gmax"
+    ]
+}

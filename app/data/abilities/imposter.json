@@ -1,0 +1,7 @@
+{
+    "name": "imposter",
+    "effect_description": "This Pok\u00e9mon transforms into a random opponent upon entering battle.  This effect is identical to the move transform.",
+    "pokemon": [
+        "ditto"
+    ]
+}

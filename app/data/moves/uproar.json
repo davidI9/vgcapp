@@ -1,0 +1,7 @@
+{
+    "name": "uproar",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User is forced to use this move for 2\u20135 turns, selected at random.  All Pok\u00e9mon on the field wake up, and none can fall to sleep until the lock-in ends.  Pok\u00e9mon cannot use rest during this effect.  This move cannot be selected by sleep talk."
+}

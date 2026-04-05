@@ -1,0 +1,7 @@
+{
+    "name": "misty-explosion",
+    "type": "fairy",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

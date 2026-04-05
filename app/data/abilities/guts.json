@@ -1,0 +1,32 @@
+{
+    "name": "guts",
+    "effect_description": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.  This bonus does not count as a stat modifier.",
+    "pokemon": [
+        "rattata",
+        "raticate",
+        "machop",
+        "machoke",
+        "machamp",
+        "flareon",
+        "heracross",
+        "ursaring",
+        "tyrogue",
+        "larvitar",
+        "taillow",
+        "swellow",
+        "makuhita",
+        "hariyama",
+        "shinx",
+        "luxio",
+        "luxray",
+        "timburr",
+        "gurdurr",
+        "conkeldurr",
+        "throh",
+        "obstagoon",
+        "ursaluna",
+        "squawkabilly-green-plumage",
+        "machamp-gmax",
+        "squawkabilly-blue-plumage"
+    ]
+}

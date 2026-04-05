@@ -1,0 +1,7 @@
+{
+    "name": "chilling-neigh",
+    "effect_description": "When the Pok\u00e9mon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.",
+    "pokemon": [
+        "glastrier"
+    ]
+}

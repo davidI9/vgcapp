@@ -1,0 +1,7 @@
+{
+    "name": "darkest-lariat",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Damage calculation ignores the target\u2019s stat modifiers, including evasion."
+}

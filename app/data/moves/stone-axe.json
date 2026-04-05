@@ -1,0 +1,7 @@
+{
+    "name": "stone-axe",
+    "type": "rock",
+    "power": 65,
+    "accuracy": 90,
+    "effect_description": "The user swings its stone axes at the target, aiming to land a critical hit. Stone splinters left behind by this attack continue to damage the target for several turns."
+}

@@ -1,0 +1,63 @@
+{
+    "id": 10241,
+    "name": "sliggoo-hisui",
+    "species": "sliggoo",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "steel",
+        "dragon"
+    ],
+    "base_stats": {
+        "hp": 58,
+        "attack": 75,
+        "defense": 83,
+        "special-attack": 83,
+        "special-defense": 113,
+        "speed": 40
+    },
+    "bst": 452,
+    "abilities": [
+        "sap-sipper",
+        "shell-armor",
+        "gooey"
+    ],
+    "moves": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "water-gun",
+        "ice-beam",
+        "blizzard",
+        "absorb",
+        "thunderbolt",
+        "thunder",
+        "toxic",
+        "acid-armor",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "flail",
+        "protect",
+        "sludge-bomb",
+        "outrage",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "dragon-breath",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "dragon-pulse",
+        "draco-meteor",
+        "sludge-wave",
+        "acid-spray",
+        "skitter-smack",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10241.png"
+}

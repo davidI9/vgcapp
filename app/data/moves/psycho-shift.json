@@ -1,0 +1,7 @@
+{
+    "name": "psycho-shift",
+    "type": "psychic",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "If the user has a major status effect and the target does not, the user\u2019s status is transferred to the target."
+}

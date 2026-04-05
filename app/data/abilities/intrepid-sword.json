@@ -1,0 +1,8 @@
+{
+    "name": "intrepid-sword",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s Attack stat the first time the Pok\u00e9mon enters a battle.",
+    "pokemon": [
+        "zacian",
+        "zacian-crowned"
+    ]
+}

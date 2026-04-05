@@ -1,0 +1,7 @@
+{
+    "name": "sunny-day",
+    "type": "fire",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.  If the user is holding heat rock, this effect lasts for eight turns.  Pok\u00e9mon cannot become frozen.  thunder has 50% accuracy.  solar beam skips its charge turn.  moonlight, morning sun, and synthesis heal 2/3 of the user\u2019s max HP.  Pok\u00e9mon with chlorophyll have doubled original Speed.  Pok\u00e9mon with forecast become fire.  Pok\u00e9mon with leaf guard are not affected by major status effects.  Pok\u00e9mon with flower gift change form; every Pok\u00e9mon on their side of the field have their original Attack and Special Attack increased by 50%.  Pok\u00e9mon with dry skin lose 1/8 max HP at the end of each turn.  Pok\u00e9mon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn."
+}

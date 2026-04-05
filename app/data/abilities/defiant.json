@@ -1,0 +1,22 @@
+{
+    "name": "defiant",
+    "effect_description": "When any of this Pok\u00e9mon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.",
+    "pokemon": [
+        "mankey",
+        "primeape",
+        "farfetchd",
+        "purugly",
+        "pawniard",
+        "bisharp",
+        "braviary",
+        "tornadus-incarnate",
+        "thundurus-incarnate",
+        "passimian",
+        "obstagoon",
+        "falinks",
+        "annihilape",
+        "kingambit",
+        "ogerpon",
+        "zapdos-galar"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "will-o-wisp",
+    "type": "fire",
+    "power": null,
+    "accuracy": 85,
+    "effect_description": "Burns the target."
+}

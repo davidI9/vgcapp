@@ -1,0 +1,60 @@
+{
+    "id": 798,
+    "name": "kartana",
+    "species": "kartana",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "base_stats": {
+        "hp": 59,
+        "attack": 181,
+        "defense": 131,
+        "special-attack": 59,
+        "special-defense": 31,
+        "speed": 109
+    },
+    "bst": 570,
+    "abilities": [
+        "beast-boost"
+    ],
+    "moves": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "razor-leaf",
+        "screech",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "detect",
+        "giga-drain",
+        "endure",
+        "false-swipe",
+        "fury-cutter",
+        "sleep-talk",
+        "synthesis",
+        "brick-break",
+        "air-cutter",
+        "aerial-ace",
+        "iron-defense",
+        "calm-mind",
+        "leaf-blade",
+        "night-slash",
+        "air-slash",
+        "x-scissor",
+        "vacuum-wave",
+        "giga-impact",
+        "psycho-cut",
+        "defog",
+        "round",
+        "sacred-sword",
+        "solar-blade",
+        "laser-focus",
+        "smart-strike",
+        "steel-beam"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+}

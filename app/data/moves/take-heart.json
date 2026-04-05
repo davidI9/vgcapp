@@ -1,0 +1,7 @@
+{
+    "name": "take-heart",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": null,
+    "effect_description": "The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats."
+}

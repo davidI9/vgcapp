@@ -1,0 +1,17 @@
+{
+    "name": "contrary",
+    "effect_description": "Whenever this Pok\u00e9mon's stats would be raised, they are instead lowered by the same amount, and vice versa.",
+    "pokemon": [
+        "shuckle",
+        "spinda",
+        "snivy",
+        "servine",
+        "serperior",
+        "inkay",
+        "malamar",
+        "fomantis",
+        "lurantis",
+        "enamorus-incarnate",
+        "lurantis-totem"
+    ]
+}

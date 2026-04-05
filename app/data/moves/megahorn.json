@@ -1,0 +1,7 @@
+{
+    "name": "megahorn",
+    "type": "bug",
+    "power": 120,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage."
+}

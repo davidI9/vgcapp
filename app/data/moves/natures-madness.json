@@ -1,0 +1,7 @@
+{
+    "name": "natures-madness",
+    "type": "fairy",
+    "power": null,
+    "accuracy": 90,
+    "effect_description": "Inflicts typeless damage equal to half the target\u2019s remaining HP."
+}

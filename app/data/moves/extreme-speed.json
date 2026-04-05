@@ -1,0 +1,7 @@
+{
+    "name": "extreme-speed",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

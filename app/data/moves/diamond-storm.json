@@ -1,0 +1,7 @@
+{
+    "name": "diamond-storm",
+    "type": "rock",
+    "power": 100,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to raise the user\u2019s Defense by two stages for each target hit."
+}

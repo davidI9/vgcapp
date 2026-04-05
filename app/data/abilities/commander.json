@@ -1,0 +1,9 @@
+{
+    "name": "commander",
+    "effect_description": "When the Pok\u00e9mon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pok\u00e9mon then issues commands from there.",
+    "pokemon": [
+        "tatsugiri-curly",
+        "tatsugiri-droopy",
+        "tatsugiri-stretchy"
+    ]
+}

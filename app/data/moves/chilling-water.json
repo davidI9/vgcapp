@@ -1,0 +1,7 @@
+{
+    "name": "chilling-water",
+    "type": "water",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat."
+}

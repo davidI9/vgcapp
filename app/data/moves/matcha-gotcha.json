@@ -1,0 +1,7 @@
+{
+    "name": "matcha-gotcha",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 90,
+    "effect_description": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn."
+}

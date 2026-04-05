@@ -1,0 +1,7 @@
+{
+    "name": "trailblaze",
+    "type": "grass",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat."
+}

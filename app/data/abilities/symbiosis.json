@@ -1,0 +1,11 @@
+{
+    "name": "symbiosis",
+    "effect_description": "Passes the bearer's held item to an ally when the ally uses up its item.",
+    "pokemon": [
+        "flabebe",
+        "floette",
+        "florges",
+        "oranguru",
+        "floette-eternal"
+    ]
+}

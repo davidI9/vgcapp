@@ -1,0 +1,8 @@
+{
+    "name": "water-compaction",
+    "effect_description": "Raises this Pok\u00e9mon's Defense by two stages when it's hit by a Water move.",
+    "pokemon": [
+        "sandygast",
+        "palossand"
+    ]
+}

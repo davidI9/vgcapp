@@ -1,0 +1,7 @@
+{
+    "name": "earthquake",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target is in the first turn of dig, this move will hit with double power."
+}

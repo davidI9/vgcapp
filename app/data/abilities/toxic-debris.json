@@ -1,0 +1,8 @@
+{
+    "name": "toxic-debris",
+    "effect_description": "Scatters poison spikes at the feet of the opposing team when the Pok\u00e9mon takes damage from physical moves.",
+    "pokemon": [
+        "glimmet",
+        "glimmora"
+    ]
+}

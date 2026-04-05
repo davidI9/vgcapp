@@ -1,0 +1,7 @@
+{
+    "name": "shadow-force",
+    "type": "ghost",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.  This move ignores the effects of detect and protect.  This move cannot be selected by sleep talk."
+}

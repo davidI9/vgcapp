@@ -1,0 +1,7 @@
+{
+    "name": "powder-snow",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target."
+}

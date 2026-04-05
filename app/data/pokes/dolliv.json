@@ -1,0 +1,59 @@
+{
+    "id": 929,
+    "name": "dolliv",
+    "species": "dolliv",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "grass",
+        "normal"
+    ],
+    "base_stats": {
+        "hp": 52,
+        "attack": 53,
+        "defense": 60,
+        "special-attack": 78,
+        "special-defense": 78,
+        "speed": 33
+    },
+    "bst": 354,
+    "abilities": [
+        "early-bird",
+        "harvest"
+    ],
+    "moves": [
+        "tackle",
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "growth",
+        "razor-leaf",
+        "solar-beam",
+        "swift",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "sweet-scent",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "weather-ball",
+        "bullet-seed",
+        "magical-leaf",
+        "seed-bomb",
+        "energy-ball",
+        "earth-power",
+        "leaf-storm",
+        "grass-knot",
+        "grassy-terrain",
+        "solar-blade",
+        "terrain-pulse",
+        "tera-blast",
+        "trailblaze"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+}

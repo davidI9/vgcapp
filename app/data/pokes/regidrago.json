@@ -1,0 +1,62 @@
+{
+    "id": 895,
+    "name": "regidrago",
+    "species": "regidrago",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "dragon"
+    ],
+    "base_stats": {
+        "hp": 200,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 80
+    },
+    "bst": 580,
+    "abilities": [
+        "dragons-maw"
+    ],
+    "moves": [
+        "body-slam",
+        "take-down",
+        "thrash",
+        "bite",
+        "hyper-beam",
+        "earthquake",
+        "light-screen",
+        "reflect",
+        "focus-energy",
+        "swift",
+        "explosion",
+        "rest",
+        "substitute",
+        "reversal",
+        "protect",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "dragon-breath",
+        "twister",
+        "crunch",
+        "ancient-power",
+        "facade",
+        "dragon-claw",
+        "dragon-dance",
+        "hammer-arm",
+        "dragon-pulse",
+        "earth-power",
+        "giga-impact",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "draco-meteor",
+        "breaking-swipe",
+        "scale-shot",
+        "dragon-energy",
+        "tera-blast",
+        "dragon-cheer"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
+}

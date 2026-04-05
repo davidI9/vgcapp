@@ -1,0 +1,7 @@
+{
+    "name": "drill-peck",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

@@ -1,0 +1,44 @@
+{
+    "id": 848,
+    "name": "toxel",
+    "species": "toxel",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "base_stats": {
+        "hp": 40,
+        "attack": 38,
+        "defense": 35,
+        "special-attack": 54,
+        "special-defense": 35,
+        "speed": 40
+    },
+    "bst": 242,
+    "abilities": [
+        "rattled",
+        "static",
+        "klutz"
+    ],
+    "moves": [
+        "growl",
+        "acid",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "encore",
+        "facade",
+        "endeavor",
+        "metal-sound",
+        "belch",
+        "nuzzle",
+        "tearful-look",
+        "tera-blast"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png"
+}

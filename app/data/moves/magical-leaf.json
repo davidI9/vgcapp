@@ -1,0 +1,7 @@
+{
+    "name": "magical-leaf",
+    "type": "grass",
+    "power": 60,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

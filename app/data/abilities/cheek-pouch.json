@@ -1,0 +1,13 @@
+{
+    "name": "cheek-pouch",
+    "effect_description": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+    "pokemon": [
+        "bunnelby",
+        "diggersby",
+        "dedenne",
+        "skwovet",
+        "greedent",
+        "maushold-family-of-four",
+        "maushold-family-of-three"
+    ]
+}

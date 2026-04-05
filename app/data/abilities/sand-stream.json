@@ -1,0 +1,11 @@
+{
+    "name": "sand-stream",
+    "effect_description": "The weather changes to a sandstorm when this Pok\u00e9mon enters battle and does not end unless cancelled by another weather condition.  If multiple Pok\u00e9mon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pok\u00e9mon will stay.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+    "pokemon": [
+        "tyranitar",
+        "hippopotas",
+        "hippowdon",
+        "gigalith",
+        "tyranitar-mega"
+    ]
+}

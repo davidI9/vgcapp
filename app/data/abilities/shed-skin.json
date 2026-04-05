@@ -1,0 +1,27 @@
+{
+    "name": "shed-skin",
+    "effect_description": "After each turn, this Pok\u00e9mon has a 33% of being cured of any major status ailment.",
+    "pokemon": [
+        "metapod",
+        "kakuna",
+        "ekans",
+        "arbok",
+        "dratini",
+        "dragonair",
+        "pupitar",
+        "silcoon",
+        "cascoon",
+        "seviper",
+        "kricketot",
+        "burmy",
+        "scraggy",
+        "scrafty",
+        "karrablast",
+        "spewpa",
+        "silicobra",
+        "sandaconda",
+        "rellor",
+        "cyclizar",
+        "sandaconda-gmax"
+    ]
+}

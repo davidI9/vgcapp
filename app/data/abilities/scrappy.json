@@ -1,0 +1,21 @@
+{
+    "name": "scrappy",
+    "effect_description": "This Pok\u00e9mon ignores ghost-type Pok\u00e9mon's immunity to normal- and fighting-type moves.  Ghost Pok\u00e9mon's other types affect damage as usual.",
+    "pokemon": [
+        "kangaskhan",
+        "miltank",
+        "taillow",
+        "swellow",
+        "loudred",
+        "exploud",
+        "herdier",
+        "stoutland",
+        "pancham",
+        "pangoro",
+        "sirfetchd",
+        "flamigo",
+        "lopunny-mega",
+        "farfetchd-galar",
+        "decidueye-hisui"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "heatproof",
+    "effect_description": "This Pok\u00e9mon takes half as much damage from fire-type moves and burns.",
+    "pokemon": [
+        "bronzor",
+        "bronzong",
+        "rolycoly",
+        "poltchageist",
+        "sinistcha"
+    ]
+}

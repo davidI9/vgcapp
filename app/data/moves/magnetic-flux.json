@@ -1,0 +1,7 @@
+{
+    "name": "magnetic-flux",
+    "type": "electric",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises the Defense and Special Defense of all friendly Pok\u00e9mon with plus or minus by one stage."
+}

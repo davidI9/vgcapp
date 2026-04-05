@@ -1,0 +1,7 @@
+{
+    "name": "stored-power",
+    "type": "psychic",
+    "power": 20,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user\u2019s stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move\u2019s power.  For a Pok\u00e9mon with all five stats modified to +6, this move\u2019s power is 31\u00d7."
+}

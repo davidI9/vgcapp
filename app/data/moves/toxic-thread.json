@@ -1,0 +1,7 @@
+{
+    "name": "toxic-thread",
+    "type": "poison",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Poisons the target and lowers its Speed by one stage."
+}

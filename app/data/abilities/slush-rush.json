@@ -1,0 +1,13 @@
+{
+    "name": "slush-rush",
+    "effect_description": "During Hail, this Pok\u00e9mon has double Speed.",
+    "pokemon": [
+        "cubchoo",
+        "beartic",
+        "arctozolt",
+        "arctovish",
+        "cetitan",
+        "sandshrew-alola",
+        "sandslash-alola"
+    ]
+}

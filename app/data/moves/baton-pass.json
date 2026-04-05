@@ -1,0 +1,7 @@
+{
+    "name": "baton-pass",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User switches out, and the trainer selects a replacement Pok\u00e9mon from the party.  Stat changes, confusion, and persistent move effects are passed along to the replacement Pok\u00e9mon.  The following move effects are passed:  * aqua ring * both the user\u2019s and target\u2019s effect of block, mean look, and spider web * the curse effect of curse * embargo * focus energy or an activated lansat berry * gastro acid * ingrain * being sapped by leech seed * being targeted by lock on or mind reader * magnet rise * perish song\u2019s counter * power trick * substitute; the doll\u2019s HP is unchanged  The replacement Pok\u00e9mon does not trigger effects that respond to Pok\u00e9mon switching in."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "echoed-voice",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If any friendly Pok\u00e9mon used this move earlier this turn or on the previous turn, that use\u2019s power is added to this move\u2019s power, to a maximum of 200."
+}

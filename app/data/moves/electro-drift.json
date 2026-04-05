@@ -1,0 +1,7 @@
+{
+    "name": "electro-drift",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "helping-hand",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Boosts the power of the target\u2019s moves by 50% until the end of this turn.  This move cannot be copied by mirror move, nor selected by assist or metronome."
+}

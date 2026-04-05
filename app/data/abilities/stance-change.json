@@ -1,0 +1,8 @@
+{
+    "name": "stance-change",
+    "effect_description": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
+    "pokemon": [
+        "aegislash-shield",
+        "aegislash-blade"
+    ]
+}

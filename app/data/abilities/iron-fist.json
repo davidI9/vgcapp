@@ -1,0 +1,25 @@
+{
+    "name": "iron-fist",
+    "effect_description": "Moves flagged as being punch-based have 1.2\u00d7 their base power for this Pok\u00e9mon.  sucker punch is not flagged as punch-based; its original, Japanese name only means \"surprise attack\".",
+    "pokemon": [
+        "hitmonchan",
+        "ledian",
+        "chimchar",
+        "monferno",
+        "infernape",
+        "timburr",
+        "gurdurr",
+        "conkeldurr",
+        "golett",
+        "golurk",
+        "pancham",
+        "pangoro",
+        "crabrawler",
+        "crabominable",
+        "melmetal",
+        "pawmi",
+        "pawmo",
+        "pawmot",
+        "melmetal-gmax"
+    ]
+}

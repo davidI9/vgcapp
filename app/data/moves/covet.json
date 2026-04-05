@@ -1,0 +1,7 @@
+{
+    "name": "covet",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.  Pok\u00e9mon with sticky hold or multitype are immune to the item theft effect.  The target cannot recover its item with recycle.  This move cannot be selected by assist or metronome."
+}

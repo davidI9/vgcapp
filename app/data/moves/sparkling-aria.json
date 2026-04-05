@@ -1,0 +1,7 @@
+{
+    "name": "sparkling-aria",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed."
+}

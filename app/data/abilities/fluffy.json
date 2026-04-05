@@ -1,0 +1,12 @@
+{
+    "name": "fluffy",
+    "effect_description": "Damage from contact moves is halved.  Damage from Fire moves is doubled.",
+    "pokemon": [
+        "stufful",
+        "bewear",
+        "wooloo",
+        "dubwool",
+        "greavard",
+        "houndstone"
+    ]
+}

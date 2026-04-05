@@ -1,0 +1,7 @@
+{
+    "name": "scale-shot",
+    "type": "dragon",
+    "power": 25,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage two to five times in a row, raising the user\u2019s Speed and lowering the user\u2019s Defense by one stage each upon last hit."
+}

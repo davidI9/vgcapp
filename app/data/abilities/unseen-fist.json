@@ -1,0 +1,10 @@
+{
+    "name": "unseen-fist",
+    "effect_description": "If the Pok\u00e9mon uses moves that make direct contact, it can attack the target even if the target protects itself.",
+    "pokemon": [
+        "urshifu-single-strike",
+        "urshifu-rapid-strike",
+        "urshifu-single-strike-gmax",
+        "urshifu-rapid-strike-gmax"
+    ]
+}

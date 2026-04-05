@@ -1,0 +1,7 @@
+{
+    "name": "absorb",
+    "type": "grass",
+    "power": 20,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

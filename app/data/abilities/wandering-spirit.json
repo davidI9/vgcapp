@@ -1,0 +1,8 @@
+{
+    "name": "wandering-spirit",
+    "effect_description": "The Pok\u00e9mon exchanges Abilities with a Pok\u00e9mon that hits it with a move that makes direct contact.",
+    "pokemon": [
+        "runerigus",
+        "yamask-galar"
+    ]
+}

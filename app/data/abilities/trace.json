@@ -1,0 +1,12 @@
+{
+    "name": "trace",
+    "effect_description": "When this Pok\u00e9mon enters battle, it copies a random opponent's ability.  This ability cannot copy flower gift, forecast, illusion, imposter, multitype, trace, wonder guard, or zen mode.",
+    "pokemon": [
+        "porygon",
+        "porygon2",
+        "ralts",
+        "kirlia",
+        "gardevoir",
+        "alakazam-mega"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "water-veil",
+    "effect_description": "This Pok\u00e9mon cannot be burned.  If a Pok\u00e9mon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle.",
+    "pokemon": [
+        "goldeen",
+        "seaking",
+        "mantine",
+        "wailmer",
+        "wailord",
+        "huntail",
+        "buizel",
+        "floatzel",
+        "finneon",
+        "lumineon",
+        "mantyke",
+        "finizen",
+        "dondozo"
+    ]
+}

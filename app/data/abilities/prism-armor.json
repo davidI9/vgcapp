@@ -1,0 +1,9 @@
+{
+    "name": "prism-armor",
+    "effect_description": "Super-effective damage this Pok\u00e9mon takes is reduced to 0.75\u00d7.  This Ability is not bypassed by mold breaker, teravolt, or turboblaze.",
+    "pokemon": [
+        "necrozma",
+        "necrozma-dusk",
+        "necrozma-dawn"
+    ]
+}

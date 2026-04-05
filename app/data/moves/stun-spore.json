@@ -1,0 +1,7 @@
+{
+    "name": "stun-spore",
+    "type": "grass",
+    "power": null,
+    "accuracy": 75,
+    "effect_description": "Paralyzes the target."
+}

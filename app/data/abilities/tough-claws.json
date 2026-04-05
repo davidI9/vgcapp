@@ -1,0 +1,14 @@
+{
+    "name": "tough-claws",
+    "effect_description": "Strengthens moves that make contact to 1.33\u00d7 their power.",
+    "pokemon": [
+        "binacle",
+        "barbaracle",
+        "perrserker",
+        "charizard-mega-x",
+        "aerodactyl-mega",
+        "metagross-mega",
+        "lycanroc-dusk",
+        "meowth-galar"
+    ]
+}

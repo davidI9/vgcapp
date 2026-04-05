@@ -1,0 +1,7 @@
+{
+    "name": "thousand-arrows",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pok\u00e9mon."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "tri-attack",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+}

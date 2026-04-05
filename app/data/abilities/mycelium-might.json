@@ -1,0 +1,8 @@
+{
+    "name": "mycelium-might",
+    "effect_description": "The Pok\u00e9mon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target.",
+    "pokemon": [
+        "toedscool",
+        "toedscruel"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "hyper-drill",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect."
+}

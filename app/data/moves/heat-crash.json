@@ -1,0 +1,7 @@
+{
+    "name": "heat-crash",
+    "type": "fire",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  The greater the user\u2019s weight compared to the target\u2019s, the higher power this move has, to a maximum of 120.  User\u2019s weight                    | Power -------------------------------- | ----: Up to 2\u00d7 the target\u2019s weight     |    40 Up to 3\u00d7 the target\u2019s weight     |    60 Up to 4\u00d7 the target\u2019s weight     |    80 Up to 5\u00d7 the target\u2019s weight     |   100 More than 5\u00d7 the target\u2019s weight |   120 "
+}

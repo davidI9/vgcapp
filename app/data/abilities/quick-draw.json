@@ -1,0 +1,7 @@
+{
+    "name": "quick-draw",
+    "effect_description": "If a Pok\u00e9mon with this Ability selects a damaging move, it has a 30% chance of going first in its priority bracket.",
+    "pokemon": [
+        "slowbro-galar"
+    ]
+}

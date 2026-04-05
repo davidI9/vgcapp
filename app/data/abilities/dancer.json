@@ -1,0 +1,10 @@
+{
+    "name": "dancer",
+    "effect_description": "Whenever another Pok\u00e9mon uses a dance move, this Pok\u00e9mon will use the same move immediately afterwards.",
+    "pokemon": [
+        "oricorio-baile",
+        "oricorio-pom-pom",
+        "oricorio-pau",
+        "oricorio-sensu"
+    ]
+}

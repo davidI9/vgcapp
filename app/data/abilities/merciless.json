@@ -1,0 +1,8 @@
+{
+    "name": "merciless",
+    "effect_description": "This Pok\u00e9mon's moves critical hit against poisoned targets.",
+    "pokemon": [
+        "mareanie",
+        "toxapex"
+    ]
+}

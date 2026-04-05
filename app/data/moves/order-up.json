@@ -1,0 +1,7 @@
+{
+    "name": "order-up",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form."
+}

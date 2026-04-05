@@ -1,0 +1,21 @@
+{
+    "name": "cursed-body",
+    "effect_description": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+    "pokemon": [
+        "gengar",
+        "shuppet",
+        "banette",
+        "froslass",
+        "frillish-male",
+        "jellicent-male",
+        "sinistea",
+        "polteageist",
+        "dreepy",
+        "drakloak",
+        "dragapult",
+        "marowak-alola",
+        "marowak-totem",
+        "corsola-galar",
+        "gengar-gmax"
+    ]
+}

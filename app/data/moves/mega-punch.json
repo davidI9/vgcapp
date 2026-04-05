@@ -1,0 +1,7 @@
+{
+    "name": "mega-punch",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage."
+}

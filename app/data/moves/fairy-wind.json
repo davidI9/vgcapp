@@ -1,0 +1,7 @@
+{
+    "name": "fairy-wind",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

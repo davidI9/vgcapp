@@ -1,0 +1,7 @@
+{
+    "name": "flame-burst",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If this move successfully hits the target, any Pok\u00e9mon adjacent to the target are damaged for 1/16 their max HP."
+}

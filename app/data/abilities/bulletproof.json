@@ -1,0 +1,17 @@
+{
+    "name": "bulletproof",
+    "effect_description": "Protects against bullet, ball, and bomb-based moves.",
+    "pokemon": [
+        "chespin",
+        "quilladin",
+        "chesnaught",
+        "jangmo-o",
+        "hakamo-o",
+        "kommo-o",
+        "wooloo",
+        "dubwool",
+        "applin",
+        "ursaluna",
+        "kommo-o-totem"
+    ]
+}

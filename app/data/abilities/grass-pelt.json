@@ -1,0 +1,8 @@
+{
+    "name": "grass-pelt",
+    "effect_description": "Boosts Defense while grassy terrain is in effect.",
+    "pokemon": [
+        "skiddo",
+        "gogoat"
+    ]
+}

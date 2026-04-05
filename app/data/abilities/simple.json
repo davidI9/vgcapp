@@ -1,0 +1,11 @@
+{
+    "name": "simple",
+    "effect_description": "Each stage of this Pok\u00e9mon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.  This Pok\u00e9mon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.",
+    "pokemon": [
+        "numel",
+        "bidoof",
+        "bibarel",
+        "woobat",
+        "swoobat"
+    ]
+}

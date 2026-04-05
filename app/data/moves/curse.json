@@ -1,0 +1,7 @@
+{
+    "name": "curse",
+    "type": "ghost",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn. Otherwise: Lowers the user\u2019s Speed by one stage, and raises its Attack and Defense by one stage each.  The curse effect is passed on by baton pass.  This move cannot be copied by mirror move."
+}

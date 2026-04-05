@@ -1,0 +1,26 @@
+{
+    "name": "poison-point",
+    "effect_description": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+    "pokemon": [
+        "nidoran-f",
+        "nidorina",
+        "nidoqueen",
+        "nidoran-m",
+        "nidorino",
+        "nidoking",
+        "seadra",
+        "qwilfish",
+        "roselia",
+        "budew",
+        "roserade",
+        "venipede",
+        "whirlipede",
+        "scolipede",
+        "skrelp",
+        "dragalge",
+        "overqwil",
+        "clodsire",
+        "qwilfish-hisui",
+        "wooper-paldea"
+    ]
+}

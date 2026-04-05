@@ -1,0 +1,7 @@
+{
+    "name": "copycat",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Uses the last move that was used successfully by any Pok\u00e9mon, including the user.  This move cannot copy itself, nor roar nor whirlwind.  This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+}

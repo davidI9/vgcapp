@@ -1,0 +1,7 @@
+{
+    "name": "avalanche",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.  pain split does not count as damaging the user."
+}

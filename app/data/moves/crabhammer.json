@@ -1,0 +1,7 @@
+{
+    "name": "crabhammer",
+    "type": "water",
+    "power": 100,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  User\u2019s critical hit rate is one level higher when using this move."
+}

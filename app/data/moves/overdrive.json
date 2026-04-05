@@ -1,0 +1,7 @@
+{
+    "name": "overdrive",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user attacks opposing Pok\u00e9mon by twanging a guitar or bass guitar, causing a huge echo and strong vibration."
+}

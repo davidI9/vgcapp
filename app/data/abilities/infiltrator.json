@@ -1,0 +1,32 @@
+{
+    "name": "infiltrator",
+    "effect_description": "This Pok\u00e9mon's moves ignore light screen, reflect, and safeguard.",
+    "pokemon": [
+        "zubat",
+        "golbat",
+        "crobat",
+        "hoppip",
+        "skiploom",
+        "jumpluff",
+        "ninjask",
+        "seviper",
+        "spiritomb",
+        "cottonee",
+        "whimsicott",
+        "litwick",
+        "lampent",
+        "chandelure",
+        "espurr",
+        "meowstic-male",
+        "inkay",
+        "malamar",
+        "noibat",
+        "noivern",
+        "dreepy",
+        "drakloak",
+        "dragapult",
+        "bramblin",
+        "brambleghast",
+        "meowstic-female"
+    ]
+}

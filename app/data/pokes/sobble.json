@@ -1,0 +1,63 @@
+{
+    "id": 816,
+    "name": "sobble",
+    "species": "sobble",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "water"
+    ],
+    "base_stats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 70,
+        "special-defense": 40,
+        "speed": 70
+    },
+    "bst": 310,
+    "abilities": [
+        "torrent",
+        "sniper"
+    ],
+    "moves": [
+        "pound",
+        "bind",
+        "take-down",
+        "growl",
+        "mist",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "double-team",
+        "light-screen",
+        "haze",
+        "reflect",
+        "waterfall",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "weather-ball",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "u-turn",
+        "sucker-punch",
+        "aqua-ring",
+        "ice-shard",
+        "aqua-jet",
+        "soak",
+        "water-pledge",
+        "fell-stinger",
+        "liquidation",
+        "tearful-look",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+}

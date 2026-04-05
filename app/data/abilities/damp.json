@@ -1,0 +1,26 @@
+{
+    "name": "damp",
+    "effect_description": "While this Pok\u00e9mon is in battle, self destruct and explosion will fail and aftermath will not take effect.",
+    "pokemon": [
+        "paras",
+        "parasect",
+        "psyduck",
+        "golduck",
+        "poliwag",
+        "poliwhirl",
+        "poliwrath",
+        "horsea",
+        "seadra",
+        "politoed",
+        "wooper",
+        "quagsire",
+        "kingdra",
+        "mudkip",
+        "marshtomp",
+        "swampert",
+        "frillish-male",
+        "jellicent-male",
+        "tadbulb",
+        "bellibolt"
+    ]
+}

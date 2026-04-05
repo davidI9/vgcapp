@@ -1,0 +1,7 @@
+{
+    "name": "receiver",
+    "effect_description": "When an ally faints, this Pok\u00e9mon gains its Ability.",
+    "pokemon": [
+        "passimian"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "psych-up",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Discards the user\u2019s stat changes and copies the target\u2019s.  This move cannot be copied by mirror move."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "twister",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to make each target flinch.  If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+}

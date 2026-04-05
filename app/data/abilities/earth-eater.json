@@ -1,0 +1,7 @@
+{
+    "name": "earth-eater",
+    "effect_description": "If hit by a Ground-type move, the Pok\u00e9mon has its HP restored instead of taking damage.",
+    "pokemon": [
+        "orthworm"
+    ]
+}

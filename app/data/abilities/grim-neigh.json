@@ -1,0 +1,7 @@
+{
+    "name": "grim-neigh",
+    "effect_description": "When the Pok\u00e9mon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
+    "pokemon": [
+        "spectrier"
+    ]
+}

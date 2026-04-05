@@ -1,0 +1,27 @@
+{
+    "name": "rattled",
+    "effect_description": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+    "pokemon": [
+        "magikarp",
+        "ledyba",
+        "sudowoodo",
+        "dunsparce",
+        "snubbull",
+        "granbull",
+        "poochyena",
+        "whismur",
+        "clamperl",
+        "bonsly",
+        "cubchoo",
+        "yamper",
+        "toxel",
+        "wiglett",
+        "wugtrio",
+        "dudunsparce-two-segment",
+        "gimmighoul",
+        "meowth-alola",
+        "persian-alola",
+        "basculin-white-striped",
+        "dudunsparce-three-segment"
+    ]
+}

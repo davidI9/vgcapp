@@ -1,0 +1,7 @@
+{
+    "name": "toxic",
+    "type": "poison",
+    "power": null,
+    "accuracy": 90,
+    "effect_description": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon."
+}

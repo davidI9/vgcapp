@@ -1,0 +1,27 @@
+{
+    "name": "sap-sipper",
+    "effect_description": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+    "pokemon": [
+        "marill",
+        "azumarill",
+        "girafarig",
+        "stantler",
+        "miltank",
+        "azurill",
+        "blitzle",
+        "zebstrika",
+        "deerling",
+        "sawsbuck",
+        "bouffalant",
+        "skiddo",
+        "gogoat",
+        "goomy",
+        "sliggoo",
+        "goodra",
+        "drampa",
+        "wyrdeer",
+        "farigiraf",
+        "sliggoo-hisui",
+        "goodra-hisui"
+    ]
+}

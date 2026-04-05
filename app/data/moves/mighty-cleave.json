@@ -1,0 +1,7 @@
+{
+    "name": "mighty-cleave",
+    "type": "rock",
+    "power": 95,
+    "accuracy": 100,
+    "effect_description": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
+}

@@ -1,0 +1,24 @@
+{
+    "name": "synchronize",
+    "effect_description": "Whenever this Pok\u00e9mon is burned, paralyzed, or poisoned, the Pok\u00e9mon who gave this Pok\u00e9mon that ailment is also given the ailment.  This ability passes back bad poison when this Pok\u00e9mon is badly poisoned.  This ability cannot pass on a status ailment that the Pok\u00e9mon did not directly receive from another Pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.  Overworld: If the lead Pok\u00e9mon has this ability, wild Pok\u00e9mon have a 50% chance of having the lead Pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead Pok\u00e9mon's nature.  This does not work on Pok\u00e9mon received outside of battle or roaming legendaries.",
+    "pokemon": [
+        "abra",
+        "kadabra",
+        "alakazam",
+        "mew",
+        "natu",
+        "xatu",
+        "espeon",
+        "umbreon",
+        "ralts",
+        "kirlia",
+        "gardevoir",
+        "munna",
+        "musharna",
+        "elgyem",
+        "beheeyem",
+        "indeedee-male",
+        "rabsca",
+        "indeedee-female"
+    ]
+}

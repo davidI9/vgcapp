@@ -1,0 +1,7 @@
+{
+    "name": "pluck",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.  If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.  If this move is super effective and the target is holding a berry that can reduce this move\u2019s damage, it will do so, and will not be stolen."
+}

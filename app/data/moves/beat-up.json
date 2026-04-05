@@ -1,0 +1,7 @@
+{
+    "name": "beat-up",
+    "type": "dark",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Inflicts typeless regular damage.  Every Pok\u00e9mon in the user\u2019s party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pok\u00e9mon still get STAB.  This effect breaks through wonder guard."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "white-smoke",
+    "effect_description": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.  This ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis; nor self-inflicted stat drops, such as the Special Attack drop from overheat; nor opponent-triggered stat boosts, such as the Attack boost from swagger.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.  This ability functions identically to clear body in battle.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+    "pokemon": [
+        "torkoal",
+        "heatmor",
+        "sizzlipede",
+        "centiskorch",
+        "centiskorch-gmax"
+    ]
+}

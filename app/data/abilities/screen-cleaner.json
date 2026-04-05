@@ -1,0 +1,8 @@
+{
+    "name": "screen-cleaner",
+    "effect_description": "When the Pok\u00e9mon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pok\u00e9mon.",
+    "pokemon": [
+        "mr-rime",
+        "mr-mime-galar"
+    ]
+}

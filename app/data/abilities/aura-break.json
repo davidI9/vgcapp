@@ -1,0 +1,8 @@
+{
+    "name": "aura-break",
+    "effect_description": "While this Pok\u00e9mon is on the field, dark aura and fairy aura weaken moves of their respective types to 2/3 their power, rather than strengthening them.",
+    "pokemon": [
+        "zygarde-50",
+        "zygarde-10"
+    ]
+}

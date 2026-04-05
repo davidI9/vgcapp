@@ -1,0 +1,7 @@
+{
+    "name": "fury-cutter",
+    "type": "bug",
+    "power": 40,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets."
+}

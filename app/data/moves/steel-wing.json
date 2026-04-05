@@ -1,0 +1,7 @@
+{
+    "name": "steel-wing",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage. Has a 10% chance to raise the user\u2019s Defense one stage."
+}

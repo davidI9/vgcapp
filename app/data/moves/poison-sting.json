@@ -1,0 +1,7 @@
+{
+    "name": "poison-sting",
+    "type": "poison",
+    "power": 15,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target."
+}

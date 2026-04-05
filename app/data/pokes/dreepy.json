@@ -1,0 +1,49 @@
+{
+    "id": 885,
+    "name": "dreepy",
+    "species": "dreepy",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "base_stats": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 82
+    },
+    "bst": 270,
+    "abilities": [
+        "clear-body",
+        "infiltrator",
+        "cursed-body"
+    ],
+    "moves": [
+        "bite",
+        "disable",
+        "thunder-wave",
+        "quick-attack",
+        "double-team",
+        "confuse-ray",
+        "swift",
+        "rest",
+        "substitute",
+        "curse",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "baton-pass",
+        "facade",
+        "helping-hand",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "dragon-tail",
+        "infestation",
+        "tera-blast"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+}

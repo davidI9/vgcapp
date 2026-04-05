@@ -1,0 +1,58 @@
+{
+    "id": 704,
+    "name": "goomy",
+    "species": "goomy",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "dragon"
+    ],
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "special-attack": 55,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "bst": 300,
+    "abilities": [
+        "sap-sipper",
+        "hydration",
+        "gooey"
+    ],
+    "moves": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "water-gun",
+        "counter",
+        "absorb",
+        "thunderbolt",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "flail",
+        "protect",
+        "sludge-bomb",
+        "outrage",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "dragon-breath",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "dragon-pulse",
+        "draco-meteor",
+        "sludge-wave",
+        "life-dew",
+        "skitter-smack",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
+}

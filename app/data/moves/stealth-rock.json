@@ -1,0 +1,7 @@
+{
+    "name": "stealth-rock",
+    "type": "rock",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Spreads sharp rocks around the opposing field, damaging any Pok\u00e9mon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pok\u00e9mon\u2019s susceptibility to rock moves.  rapid spin removes this effect from its user\u2019s side of the field."
+}

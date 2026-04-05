@@ -1,0 +1,17 @@
+{
+    "name": "no-guard",
+    "effect_description": "Moves used by or against this Pok\u00e9mon never miss.  One-hit KO moves are unaffected.  Moves affected by this ability can hit Pok\u00e9mon during the preparation turn of moves like dig or fly.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+    "pokemon": [
+        "machop",
+        "machoke",
+        "machamp",
+        "karrablast",
+        "golett",
+        "golurk",
+        "honedge",
+        "doublade",
+        "pidgeot-mega",
+        "lycanroc-midnight",
+        "machamp-gmax"
+    ]
+}

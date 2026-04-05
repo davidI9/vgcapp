@@ -1,0 +1,29 @@
+{
+    "name": "flame-body",
+    "effect_description": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being burned.  Overworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or magma armor.",
+    "pokemon": [
+        "ponyta",
+        "rapidash",
+        "magmar",
+        "moltres",
+        "slugma",
+        "magcargo",
+        "magby",
+        "magmortar",
+        "heatran",
+        "litwick",
+        "lampent",
+        "chandelure",
+        "larvesta",
+        "volcarona",
+        "fletchinder",
+        "talonflame",
+        "carkol",
+        "coalossal",
+        "sizzlipede",
+        "centiskorch",
+        "charcadet",
+        "coalossal-gmax",
+        "centiskorch-gmax"
+    ]
+}

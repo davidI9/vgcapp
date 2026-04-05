@@ -1,0 +1,7 @@
+{
+    "name": "psychic-fangs",
+    "type": "psychic",
+    "power": 85,
+    "accuracy": 100,
+    "effect_description": "Destroys any light screen or reflect on the target\u2019s side of the field, then inflicts regular damage."
+}

@@ -1,0 +1,9 @@
+{
+    "name": "toxic-chain",
+    "effect_description": "The power of the Pok\u00e9mon's toxic chain may badly poison any target the Pok\u00e9mon hits with a move.",
+    "pokemon": [
+        "okidogi",
+        "munkidori",
+        "fezandipiti"
+    ]
+}

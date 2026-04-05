@@ -1,0 +1,7 @@
+{
+    "name": "taunt",
+    "type": "dark",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Target is forced to only use damaging moves for the next 3\u20135 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.  assist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.  bide, counter, endeavor, metal burst, and mirror coat are allowed."
+}

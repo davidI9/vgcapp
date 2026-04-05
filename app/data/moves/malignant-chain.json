@@ -1,0 +1,7 @@
+{
+    "name": "malignant-chain",
+    "type": "poison",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned."
+}

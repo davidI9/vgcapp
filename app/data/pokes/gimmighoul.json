@@ -1,0 +1,42 @@
+{
+    "id": 999,
+    "name": "gimmighoul",
+    "species": "gimmighoul",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "ghost"
+    ],
+    "base_stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 10
+    },
+    "bst": 300,
+    "abilities": [
+        "rattled"
+    ],
+    "moves": [
+        "tackle",
+        "take-down",
+        "night-shade",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "shadow-ball",
+        "astonish",
+        "power-gem",
+        "nasty-plot",
+        "hex",
+        "tera-blast"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
+}

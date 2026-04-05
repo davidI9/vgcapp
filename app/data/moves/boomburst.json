@@ -1,0 +1,7 @@
+{
+    "name": "boomburst",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

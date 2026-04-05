@@ -1,0 +1,22 @@
+{
+    "name": "steadfast",
+    "effect_description": "Whenever this Pok\u00e9mon flinches, its Speed rises one stage.",
+    "pokemon": [
+        "machop",
+        "machoke",
+        "machamp",
+        "scyther",
+        "tyrogue",
+        "hitmontop",
+        "riolu",
+        "lucario",
+        "gallade",
+        "rockruff",
+        "lycanroc-midday",
+        "dubwool",
+        "sirfetchd",
+        "mewtwo-mega-x",
+        "farfetchd-galar",
+        "machamp-gmax"
+    ]
+}

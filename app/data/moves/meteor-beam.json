@@ -1,0 +1,7 @@
+{
+    "name": "meteor-beam",
+    "type": "rock",
+    "power": 120,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage."
+}

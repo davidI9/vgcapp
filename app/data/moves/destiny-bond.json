@@ -1,0 +1,7 @@
+{
+    "name": "destiny-bond",
+    "type": "ghost",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.  This move cannot be selected by assist or metronome."
+}

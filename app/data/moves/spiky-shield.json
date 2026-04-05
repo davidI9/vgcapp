@@ -1,0 +1,7 @@
+{
+    "name": "spiky-shield",
+    "type": "grass",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Blocks damaging attacks and damages attacking Pok\u00e9mon for 1/8 their max HP."
+}

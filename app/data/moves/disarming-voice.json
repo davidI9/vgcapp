@@ -1,0 +1,7 @@
+{
+    "name": "disarming-voice",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage.  Ignores accuracy and evasion."
+}

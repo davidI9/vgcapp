@@ -1,0 +1,7 @@
+{
+    "name": "ember",
+    "type": "fire",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

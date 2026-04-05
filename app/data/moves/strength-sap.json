@@ -1,0 +1,7 @@
+{
+    "name": "strength-sap",
+    "type": "grass",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Attack by one stage.  Heals the user by the target\u2019s current Attack, including modifiers, but not including this move\u2019s Attack-lowering effect.  If the target\u2019s Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "hurricane",
+    "type": "flying",
+    "power": 110,
+    "accuracy": 70,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.  This move can hit Pok\u00e9mon under the effect of bounce, fly, or sky drop.  During rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy."
+}

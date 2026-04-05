@@ -1,0 +1,60 @@
+{
+    "id": 833,
+    "name": "chewtle",
+    "species": "chewtle",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "water"
+    ],
+    "base_stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 38,
+        "special-defense": 38,
+        "speed": 44
+    },
+    "bst": 284,
+    "abilities": [
+        "strong-jaw",
+        "shell-armor",
+        "swift-swim"
+    ],
+    "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "counter",
+        "waterfall",
+        "rest",
+        "substitute",
+        "protect",
+        "scary-face",
+        "endure",
+        "false-swipe",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "whirlpool",
+        "facade",
+        "mud-shot",
+        "water-pulse",
+        "gastro-acid",
+        "poison-jab",
+        "ice-fang",
+        "shell-smash",
+        "dragon-tail",
+        "stomping-tantrum",
+        "liquidation",
+        "jaw-lock",
+        "skitter-smack",
+        "tera-blast",
+        "chilling-water"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+}

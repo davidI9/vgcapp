@@ -1,0 +1,7 @@
+{
+    "name": "shift-gear",
+    "type": "steel",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises the user\u2019s Attack by one stage and its Speed by two stages."
+}

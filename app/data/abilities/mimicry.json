@@ -1,0 +1,7 @@
+{
+    "name": "mimicry",
+    "effect_description": "Changes the Pok\u00e9mon\u2019s type depending on the terrain.",
+    "pokemon": [
+        "stunfisk-galar"
+    ]
+}

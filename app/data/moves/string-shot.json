@@ -1,0 +1,7 @@
+{
+    "name": "string-shot",
+    "type": "bug",
+    "power": null,
+    "accuracy": 95,
+    "effect_description": "Lowers the target\u2019s Speed by two stages."
+}

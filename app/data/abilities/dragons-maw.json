@@ -1,0 +1,7 @@
+{
+    "name": "dragons-maw",
+    "effect_description": "Increases the power of Dragon-type moves used by this Pok\u00e9mon by 50%.",
+    "pokemon": [
+        "regidrago"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "gigaton-hammer",
+    "type": "steel",
+    "power": 160,
+    "accuracy": 100,
+    "effect_description": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row."
+}

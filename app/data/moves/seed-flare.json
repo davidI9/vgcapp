@@ -1,0 +1,7 @@
+{
+    "name": "seed-flare",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target\u2019s Special Defense by two stages."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "sucker-punch",
+    "type": "dark",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will fail.  This move is not affected by iron fist."
+}

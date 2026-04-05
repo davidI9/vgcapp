@@ -1,0 +1,7 @@
+{
+    "name": "collision-course",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it\u2019s a supereffective hit."
+}

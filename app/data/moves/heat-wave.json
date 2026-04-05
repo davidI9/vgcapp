@@ -1,0 +1,7 @@
+{
+    "name": "heat-wave",
+    "type": "fire",
+    "power": 95,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

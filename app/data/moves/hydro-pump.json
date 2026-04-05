@@ -1,0 +1,7 @@
+{
+    "name": "hydro-pump",
+    "type": "water",
+    "power": 110,
+    "accuracy": 80,
+    "effect_description": "Inflicts regular damage."
+}

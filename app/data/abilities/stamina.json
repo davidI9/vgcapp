@@ -1,0 +1,9 @@
+{
+    "name": "stamina",
+    "effect_description": "Raises this Pok\u00e9mon's Defense by one stage when it takes damage from a move.",
+    "pokemon": [
+        "mudbray",
+        "mudsdale",
+        "archaludon"
+    ]
+}

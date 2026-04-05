@@ -1,0 +1,7 @@
+{
+    "name": "dragon-energy",
+    "type": "dragon",
+    "power": 150,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

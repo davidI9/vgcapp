@@ -1,0 +1,21 @@
+{
+    "name": "big-pecks",
+    "effect_description": "This Pok\u00e9mon's Defense cannot be lowered by other Pok\u00e9mon.  This Pok\u00e9mon can still be passed negative Defense modifiers through heart swap or guard swap.",
+    "pokemon": [
+        "pidgey",
+        "pidgeotto",
+        "pidgeot",
+        "chatot",
+        "pidove",
+        "tranquill",
+        "unfezant",
+        "ducklett",
+        "swanna",
+        "vullaby",
+        "mandibuzz",
+        "fletchling",
+        "rookidee",
+        "corvisquire",
+        "bombirdier"
+    ]
+}

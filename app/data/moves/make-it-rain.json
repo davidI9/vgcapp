@@ -1,0 +1,7 @@
+{
+    "name": "make-it-rain",
+    "type": "steel",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle."
+}

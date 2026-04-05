@@ -1,0 +1,7 @@
+{
+    "name": "fling",
+    "type": "dark",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Power and type are determined by the user\u2019s held item.  The item is consumed.  If the user is not holding an item, or its item has no set type and power, this move will fail.  This move ignores sticky hold.  If the user is under the effect of embargo, this move will fail."
+}

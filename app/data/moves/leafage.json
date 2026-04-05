@@ -1,0 +1,7 @@
+{
+    "name": "leafage",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

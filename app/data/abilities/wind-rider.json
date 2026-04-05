@@ -1,0 +1,9 @@
+{
+    "name": "wind-rider",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s Attack stat if Tailwind takes effect or if the Pok\u00e9mon is hit by a wind move. The Pok\u00e9mon also takes no damage from wind moves.",
+    "pokemon": [
+        "shiftry",
+        "bramblin",
+        "brambleghast"
+    ]
+}

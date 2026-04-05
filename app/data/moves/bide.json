@@ -1,0 +1,7 @@
+{
+    "name": "bide",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pok\u00e9mon to hit it.  Damage inflicted is typeless.  This move cannot be selected by sleep talk."
+}

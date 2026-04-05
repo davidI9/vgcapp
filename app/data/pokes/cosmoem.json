@@ -1,0 +1,26 @@
+{
+    "id": 790,
+    "name": "cosmoem",
+    "species": "cosmoem",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "psychic"
+    ],
+    "base_stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special-attack": 29,
+        "special-defense": 131,
+        "speed": 37
+    },
+    "bst": 400,
+    "abilities": [
+        "sturdy"
+    ],
+    "moves": [
+        "teleport",
+        "cosmic-power"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "mirror-armor",
+    "effect_description": "Bounces back only the stat-lowering effects that the Pok\u00e9mon receives.",
+    "pokemon": [
+        "corviknight",
+        "corviknight-gmax"
+    ]
+}

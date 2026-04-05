@@ -1,0 +1,7 @@
+{
+    "name": "steam-eruption",
+    "type": "water",
+    "power": 110,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

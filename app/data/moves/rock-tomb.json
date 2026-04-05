@@ -1,0 +1,7 @@
+{
+    "name": "rock-tomb",
+    "type": "rock",
+    "power": 60,
+    "accuracy": 95,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target\u2019s Speed by one stage."
+}

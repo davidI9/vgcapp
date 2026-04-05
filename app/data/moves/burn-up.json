@@ -1,0 +1,7 @@
+{
+    "name": "burn-up",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Removes the user\u2019s fire type after damage calculation.  If the user is not fire-type, this move will fail."
+}

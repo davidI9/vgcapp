@@ -1,0 +1,7 @@
+{
+    "name": "wide-guard",
+    "type": "rock",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Moves with multiple targets will not hit friendly Pok\u00e9mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.  This move cannot be selected by assist or metronome."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "dynamax-cannon",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage, then (if successful) sets light screen on the user\u2019s side of the field."
+}

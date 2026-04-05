@@ -1,0 +1,7 @@
+{
+    "name": "poison-puppeteer",
+    "effect_description": "When a Pok\u00e9mon is poisoned by any of Pecharunt's moves, it will also become confused.",
+    "pokemon": [
+        "pecharunt"
+    ]
+}

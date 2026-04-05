@@ -1,0 +1,9 @@
+{
+    "name": "magma-armor",
+    "effect_description": "This Pok\u00e9mon cannot be frozen.  If a Pok\u00e9mon is frozen and acquires this ability, it will immediately thaw out; this includes when regaining a lost ability upon leaving battle.  Overworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or flame body.",
+    "pokemon": [
+        "slugma",
+        "magcargo",
+        "camerupt"
+    ]
+}

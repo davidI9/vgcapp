@@ -1,0 +1,7 @@
+{
+    "name": "thousand-waves",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Traps the target."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "burning-jealousy",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

@@ -1,0 +1,52 @@
+{
+    "id": 366,
+    "name": "clamperl",
+    "species": "clamperl",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "water"
+    ],
+    "base_stats": {
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "special-attack": 74,
+        "special-defense": 55,
+        "speed": 32
+    },
+    "bst": 345,
+    "abilities": [
+        "shell-armor",
+        "rattled"
+    ],
+    "moves": [
+        "body-slam",
+        "supersonic",
+        "water-gun",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "double-team",
+        "confuse-ray",
+        "waterfall",
+        "rest",
+        "substitute",
+        "protect",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "hail",
+        "facade",
+        "muddy-water",
+        "iron-defense",
+        "water-pulse",
+        "brine",
+        "aqua-ring",
+        "scald",
+        "shell-smash"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png"
+}

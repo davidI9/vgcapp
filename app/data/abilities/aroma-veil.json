@@ -1,0 +1,14 @@
+{
+    "name": "aroma-veil",
+    "effect_description": "Protects allies against moves that affect their mental state.",
+    "pokemon": [
+        "spritzee",
+        "aromatisse",
+        "milcery",
+        "alcremie",
+        "lechonk",
+        "dachsbun",
+        "alcremie-gmax",
+        "oinkologne-female"
+    ]
+}

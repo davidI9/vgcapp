@@ -1,0 +1,12 @@
+{
+    "name": "shadow-tag",
+    "effect_description": "While this Pok\u00e9mon is in battle, opposing Pok\u00e9mon cannot flee or switch out.  Other Pok\u00e9mon with this ability are unaffected.  Pok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.",
+    "pokemon": [
+        "wobbuffet",
+        "wynaut",
+        "gothita",
+        "gothorita",
+        "gothitelle",
+        "gengar-mega"
+    ]
+}

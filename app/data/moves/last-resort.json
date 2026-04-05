@@ -1,0 +1,7 @@
+{
+    "name": "last-resort",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  This move can only be used if each of the user\u2019s other moves has been used at least once since the user entered the field.  If this is the user\u2019s only move, this move will fail."
+}

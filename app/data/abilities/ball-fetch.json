@@ -1,0 +1,7 @@
+{
+    "name": "ball-fetch",
+    "effect_description": "At any time after the first Pok\u00e9 Ball is thrown and fails to catch a Pok\u00e9mon, at the end of a turn, if a Pok\u00e9mon with Ball Fetch is on the field and not holding another item, it will pick up the same type of ball as the first one thrown.",
+    "pokemon": [
+        "yamper"
+    ]
+}

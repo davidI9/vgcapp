@@ -1,0 +1,7 @@
+{
+    "name": "crunch",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target\u2019s Defense by one stage."
+}

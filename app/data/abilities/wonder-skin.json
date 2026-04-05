@@ -1,0 +1,11 @@
+{
+    "name": "wonder-skin",
+    "effect_description": "Non-damaging moves have exactly 50% base accuracy against this Pok\u00e9mon.",
+    "pokemon": [
+        "venomoth",
+        "skitty",
+        "delcatty",
+        "sigilyph",
+        "bruxish"
+    ]
+}

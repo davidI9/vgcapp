@@ -1,0 +1,7 @@
+{
+    "name": "bitter-blade",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target."
+}

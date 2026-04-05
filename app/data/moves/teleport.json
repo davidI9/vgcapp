@@ -1,0 +1,7 @@
+{
+    "name": "teleport",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Does nothing.  Wild battles end immediately."
+}

@@ -1,0 +1,61 @@
+{
+    "id": 548,
+    "name": "petilil",
+    "species": "petilil",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "grass"
+    ],
+    "base_stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 50,
+        "special-attack": 70,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "bst": 280,
+    "abilities": [
+        "chlorophyll",
+        "own-tempo",
+        "leaf-guard"
+    ],
+    "moves": [
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "growth",
+        "solar-beam",
+        "stun-spore",
+        "sleep-powder",
+        "rest",
+        "substitute",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "encore",
+        "sweet-scent",
+        "synthesis",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "ingrain",
+        "bullet-seed",
+        "magical-leaf",
+        "healing-wish",
+        "worry-seed",
+        "seed-bomb",
+        "energy-ball",
+        "leaf-storm",
+        "grass-knot",
+        "entrainment",
+        "after-you",
+        "pollen-puff",
+        "grassy-glide",
+        "tera-blast",
+        "trailblaze"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+}

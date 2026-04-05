@@ -1,0 +1,7 @@
+{
+    "name": "heart-swap",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User swaps its stat modifiers with the target."
+}

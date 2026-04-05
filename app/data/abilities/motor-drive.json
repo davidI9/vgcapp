@@ -1,0 +1,10 @@
+{
+    "name": "motor-drive",
+    "effect_description": "Whenever an electric-type move hits this Pok\u00e9mon, its Speed rises one stage, negating any other effect on it.  This ability will not take effect if this Pok\u00e9mon is immune to Electric moves.  Electric moves will ignore this Pok\u00e9mon's substitute.  This effect includes non-damaging moves, i.e. thunder wave.",
+    "pokemon": [
+        "electivire",
+        "blitzle",
+        "zebstrika",
+        "emolga"
+    ]
+}

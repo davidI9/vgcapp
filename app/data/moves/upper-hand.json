@@ -1,0 +1,7 @@
+{
+    "name": "upper-hand",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "effect_description": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
+}

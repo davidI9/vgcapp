@@ -1,0 +1,15 @@
+{
+    "name": "tangled-feet",
+    "effect_description": "When this Pok\u00e9mon is confused, it has twice its evasion.",
+    "pokemon": [
+        "pidgey",
+        "pidgeotto",
+        "pidgeot",
+        "doduo",
+        "dodrio",
+        "spinda",
+        "chatot",
+        "mr-rime",
+        "flamigo"
+    ]
+}

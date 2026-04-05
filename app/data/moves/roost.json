@@ -1,0 +1,7 @@
+{
+    "name": "roost",
+    "type": "flying",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn."
+}

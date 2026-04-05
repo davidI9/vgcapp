@@ -1,0 +1,7 @@
+{
+    "name": "seed-sower",
+    "effect_description": "Turns the ground into Grassy Terrain when the Pok\u00e9mon is hit by an attack.",
+    "pokemon": [
+        "arboliva"
+    ]
+}

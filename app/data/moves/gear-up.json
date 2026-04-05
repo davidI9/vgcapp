@@ -1,0 +1,7 @@
+{
+    "name": "gear-up",
+    "type": "steel",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises the Attack and Special Attack of all friendly Pok\u00e9mon with plus or minus by one stage."
+}

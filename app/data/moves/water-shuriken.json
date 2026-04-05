@@ -1,0 +1,7 @@
+{
+    "name": "water-shuriken",
+    "type": "water",
+    "power": 15,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Hits 2\u20135 times."
+}

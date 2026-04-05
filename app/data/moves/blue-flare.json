@@ -1,0 +1,7 @@
+{
+    "name": "blue-flare",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target."
+}

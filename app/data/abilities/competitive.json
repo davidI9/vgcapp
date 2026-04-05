@@ -1,0 +1,21 @@
+{
+    "name": "competitive",
+    "effect_description": "Raises Special Attack by two stages upon having any stat lowered.",
+    "pokemon": [
+        "jigglypuff",
+        "wigglytuff",
+        "igglybuff",
+        "milotic",
+        "piplup",
+        "prinplup",
+        "empoleon",
+        "gothita",
+        "gothorita",
+        "gothitelle",
+        "boltund",
+        "wattrel",
+        "kilowattrel",
+        "meowstic-female",
+        "articuno-galar"
+    ]
+}

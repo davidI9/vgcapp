@@ -1,0 +1,7 @@
+{
+    "name": "wing-attack",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

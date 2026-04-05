@@ -1,0 +1,10 @@
+{
+    "name": "immunity",
+    "effect_description": "This Pok\u00e9mon cannot be poisoned.  This includes bad poison.  If a Pok\u00e9mon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.",
+    "pokemon": [
+        "snorlax",
+        "gligar",
+        "zangoose",
+        "snorlax-gmax"
+    ]
+}

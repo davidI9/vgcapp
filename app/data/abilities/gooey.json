@@ -1,0 +1,13 @@
+{
+    "name": "gooey",
+    "effect_description": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact.",
+    "pokemon": [
+        "goomy",
+        "sliggoo",
+        "goodra",
+        "wiglett",
+        "wugtrio",
+        "sliggoo-hisui",
+        "goodra-hisui"
+    ]
+}

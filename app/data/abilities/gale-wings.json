@@ -1,0 +1,9 @@
+{
+    "name": "gale-wings",
+    "effect_description": "Raises flying moves' priority by one stage.",
+    "pokemon": [
+        "fletchling",
+        "fletchinder",
+        "talonflame"
+    ]
+}

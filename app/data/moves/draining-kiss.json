@@ -1,0 +1,7 @@
+{
+    "name": "draining-kiss",
+    "type": "fairy",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Deals regular damage.  Drains 75% of the damage inflicted to heal the user."
+}

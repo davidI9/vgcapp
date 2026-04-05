@@ -1,0 +1,7 @@
+{
+    "name": "sand-attack",
+    "type": "ground",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s accuracy by one stage."
+}

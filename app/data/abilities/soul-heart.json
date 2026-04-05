@@ -1,0 +1,8 @@
+{
+    "name": "soul-heart",
+    "effect_description": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints.",
+    "pokemon": [
+        "magearna",
+        "magearna-original"
+    ]
+}

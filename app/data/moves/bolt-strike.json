@@ -1,0 +1,7 @@
+{
+    "name": "bolt-strike",
+    "type": "electric",
+    "power": 130,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "toxic-spikes",
+    "type": "poison",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Scatters poisoned spikes around the opposing field, which poison opposing Pok\u00e9mon that enter the field.  A second layer of these spikes may be laid down, in which case Pok\u00e9mon will be badly poisoned instead.  Pok\u00e9mon immune to either ground moves or being poisoned are immune to this effect.  Pok\u00e9mon otherwise immune to ground moves are affected during gravity.  If a poison Pok\u00e9mon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed.  rapid spin will remove this effect from its user\u2019s side of the field.  defog will remove this effect from its target\u2019s side of the field.  This move does not trigger synchronize, unless the Pok\u00e9mon with synchronize was forced to enter the field by another effect such as roar.  Pok\u00e9mon entering the field due to baton pass are not affected by this effect."
+}

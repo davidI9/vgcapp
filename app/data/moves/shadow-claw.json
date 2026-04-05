@@ -1,0 +1,7 @@
+{
+    "name": "shadow-claw",
+    "type": "ghost",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User\u2019s critical hit rate is one level higher when using this move."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "head-smash",
+    "type": "rock",
+    "power": 150,
+    "accuracy": 80,
+    "effect_description": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil."
+}

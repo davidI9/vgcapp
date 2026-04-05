@@ -1,0 +1,7 @@
+{
+    "name": "whirlwind",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Switches the target out for another of its trainer\u2019s Pok\u00e9mon selected at random.  Wild battles end immediately.  Doesn\u2019t affect Pok\u00e9mon with suction cups or under the effect of ingrain."
+}

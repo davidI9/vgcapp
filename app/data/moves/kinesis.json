@@ -1,0 +1,7 @@
+{
+    "name": "kinesis",
+    "type": "psychic",
+    "power": null,
+    "accuracy": 80,
+    "effect_description": "Lowers the target\u2019s accuracy by one stage."
+}

@@ -1,0 +1,17 @@
+{
+    "name": "quick-feet",
+    "effect_description": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Speed.  This Pok\u00e9mon is not affected by the usual Speed cut from paralysis.  Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+    "pokemon": [
+        "jolteon",
+        "granbull",
+        "teddiursa",
+        "ursaring",
+        "poochyena",
+        "mightyena",
+        "zigzagoon",
+        "linoone",
+        "shroomish",
+        "zigzagoon-galar",
+        "linoone-galar"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "barb-barrage",
+    "type": "poison",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "The user launches countless toxic barbs to inflict damage. This may also poison the target. This move\u2019s power is doubled if the target has a status condition."
+}

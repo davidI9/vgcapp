@@ -1,0 +1,20 @@
+{
+    "name": "rain-dish",
+    "effect_description": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during rain.",
+    "pokemon": [
+        "squirtle",
+        "wartortle",
+        "blastoise",
+        "tentacool",
+        "tentacruel",
+        "lotad",
+        "lombre",
+        "ludicolo",
+        "wingull",
+        "pelipper",
+        "surskit",
+        "morelull",
+        "shiinotic",
+        "blastoise-gmax"
+    ]
+}

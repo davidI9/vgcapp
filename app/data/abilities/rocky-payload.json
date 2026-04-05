@@ -1,0 +1,7 @@
+{
+    "name": "rocky-payload",
+    "effect_description": "Increases the power of Rock-type moves used by this Pok\u00e9mon by 50%.",
+    "pokemon": [
+        "bombirdier"
+    ]
+}

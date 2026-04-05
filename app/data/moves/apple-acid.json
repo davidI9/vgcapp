@@ -1,0 +1,7 @@
+{
+    "name": "apple-acid",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target\u2019s Sp. Def stat."
+}

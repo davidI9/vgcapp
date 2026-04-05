@@ -1,0 +1,7 @@
+{
+    "name": "sleep-powder",
+    "type": "grass",
+    "power": null,
+    "accuracy": 75,
+    "effect_description": "Puts the target to sleep."
+}

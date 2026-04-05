@@ -1,0 +1,7 @@
+{
+    "name": "acrobatics",
+    "type": "flying",
+    "power": 55,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the user has no held item, this move has double power."
+}

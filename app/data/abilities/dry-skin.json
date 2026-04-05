@@ -1,0 +1,13 @@
+{
+    "name": "dry-skin",
+    "effect_description": "This Pok\u00e9mon takes 1/8 of its maximum HP in damage after each turn during strong sunlight, but it heals for 1/8 of its HP each turn during rain.  This Pok\u00e9mon takes 1.25\u00d7 as much damage from fire-type moves, but whenever a water move hits it, it heals for 1/4 its maximum HP instead.",
+    "pokemon": [
+        "paras",
+        "parasect",
+        "jynx",
+        "croagunk",
+        "toxicroak",
+        "helioptile",
+        "heliolisk"
+    ]
+}

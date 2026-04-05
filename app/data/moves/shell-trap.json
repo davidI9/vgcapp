@@ -1,0 +1,7 @@
+{
+    "name": "shell-trap",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the user was not yet hit by an opponent\u2019s physical move this turn, this move will fail."
+}

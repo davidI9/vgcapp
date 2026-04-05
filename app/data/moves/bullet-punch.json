@@ -1,0 +1,7 @@
+{
+    "name": "bullet-punch",
+    "type": "steel",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

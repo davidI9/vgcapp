@@ -1,0 +1,10 @@
+{
+    "name": "zen-mode",
+    "effect_description": "This Pok\u00e9mon switches between Standard Mode and Zen Mode after each turn depending on its HP.  Below 50% of its maximum HP, it switches to Zen Mode, and at 50% or above, it switches to Standard Mode.  This Pok\u00e9mon returns to Standard Mode upon leaving battle or losing this ability.  This ability has no effect if this Pok\u00e9mon is not a darmanitan.",
+    "pokemon": [
+        "darmanitan-standard",
+        "darmanitan-zen",
+        "darmanitan-galar-standard",
+        "darmanitan-galar-zen"
+    ]
+}

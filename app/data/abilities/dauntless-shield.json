@@ -1,0 +1,8 @@
+{
+    "name": "dauntless-shield",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s Defense stat the first time the Pok\u00e9mon enters a battle.",
+    "pokemon": [
+        "zamazenta",
+        "zamazenta-crowned"
+    ]
+}

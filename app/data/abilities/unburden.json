@@ -1,0 +1,23 @@
+{
+    "name": "unburden",
+    "effect_description": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.  This includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+    "pokemon": [
+        "hitmonlee",
+        "treecko",
+        "grovyle",
+        "sceptile",
+        "drifloon",
+        "drifblim",
+        "purrloin",
+        "liepard",
+        "accelgor",
+        "swirlix",
+        "slurpuff",
+        "hawlucha",
+        "nickit",
+        "thievul",
+        "sneasler",
+        "shroodle",
+        "grafaiai"
+    ]
+}

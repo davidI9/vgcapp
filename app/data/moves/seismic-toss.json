@@ -1,0 +1,7 @@
+{
+    "name": "seismic-toss",
+    "type": "fighting",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Inflicts damage equal to the user\u2019s level.  Type immunity applies, but other type effects are ignored."
+}

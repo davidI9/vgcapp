@@ -1,0 +1,7 @@
+{
+    "name": "dark-void",
+    "type": "dark",
+    "power": null,
+    "accuracy": 50,
+    "effect_description": "Puts the target to sleep."
+}

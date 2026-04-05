@@ -1,0 +1,24 @@
+{
+    "name": "anticipation",
+    "effect_description": "When this Pok\u00e9mon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.  The move itself is not revealed; only that there is such a move.  Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit KO moves to which this Pok\u00e9mon is immune do not trigger this ability.",
+    "pokemon": [
+        "eevee",
+        "barboach",
+        "whiscash",
+        "wormadam-plant",
+        "croagunk",
+        "toxicroak",
+        "ferrothorn",
+        "hatenna",
+        "hattrem",
+        "hatterene",
+        "flittle",
+        "wormadam-sandy",
+        "wormadam-trash",
+        "eevee-starter",
+        "ponyta-galar",
+        "rapidash-galar",
+        "eevee-gmax",
+        "hatterene-gmax"
+    ]
+}

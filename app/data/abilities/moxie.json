@@ -1,0 +1,22 @@
+{
+    "name": "moxie",
+    "effect_description": "This Pok\u00e9mon's Attack rises one stage upon knocking out another Pok\u00e9mon, even a friendly Pok\u00e9mon.  This ability does not take effect when the Pok\u00e9mon indirectly causes another Pok\u00e9mon to faint, e.g. through poison or spikes.  If this Pok\u00e9mon knocks out a Pok\u00e9mon with mummy, the former's ability will change without taking effect.",
+    "pokemon": [
+        "pinsir",
+        "gyarados",
+        "heracross",
+        "mightyena",
+        "salamence",
+        "honchkrow",
+        "sandile",
+        "krokorok",
+        "krookodile",
+        "scraggy",
+        "scrafty",
+        "litleo",
+        "pyroar-male",
+        "quaxly",
+        "quaxwell",
+        "quaquaval"
+    ]
+}

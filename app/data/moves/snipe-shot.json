@@ -1,0 +1,7 @@
+{
+    "name": "snipe-shot",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage, then (if successful) sets reflect on the user\u2019s side of the field."
+}

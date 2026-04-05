@@ -1,0 +1,16 @@
+{
+    "name": "solar-power",
+    "effect_description": "During strong sunlight, this Pok\u00e9mon has 1.5\u00d7 its Special Attack but takes 1/8 of its maximum HP in damage after each turn.",
+    "pokemon": [
+        "charmander",
+        "charmeleon",
+        "charizard",
+        "sunkern",
+        "sunflora",
+        "tropius",
+        "helioptile",
+        "heliolisk",
+        "houndoom-mega",
+        "charizard-gmax"
+    ]
+}

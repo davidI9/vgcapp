@@ -1,0 +1,7 @@
+{
+    "name": "poison-gas",
+    "type": "poison",
+    "power": null,
+    "accuracy": 90,
+    "effect_description": "Poisons the target."
+}

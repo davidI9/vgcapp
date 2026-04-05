@@ -1,0 +1,7 @@
+{
+    "name": "bolt-beak",
+    "type": "electric",
+    "power": 85,
+    "accuracy": 100,
+    "effect_description": "The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled."
+}

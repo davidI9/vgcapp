@@ -1,0 +1,7 @@
+{
+    "name": "leech-seed",
+    "type": "grass",
+    "power": null,
+    "accuracy": 90,
+    "effect_description": "Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pok\u00e9mon.  The seed remains until the target leaves the field.  The user takes damage instead of being healed if the target has liquid ooze.  rapid spin will remove this effect.  This effect is passed on by baton pass."
+}

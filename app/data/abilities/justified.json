@@ -1,0 +1,16 @@
+{
+    "name": "justified",
+    "effect_description": "Whenever a dark-type move hits this Pok\u00e9mon, its Attack rises one stage.  The move is not negated in any way.",
+    "pokemon": [
+        "growlithe",
+        "arcanine",
+        "absol",
+        "lucario",
+        "gallade",
+        "cobalion",
+        "terrakion",
+        "virizion",
+        "keldeo-ordinary",
+        "keldeo-resolute"
+    ]
+}

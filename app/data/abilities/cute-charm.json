@@ -1,0 +1,21 @@
+{
+    "name": "cute-charm",
+    "effect_description": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being infatuated.  Overworld: If the first Pok\u00e9mon in the party has this ability, any wild Pok\u00e9mon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual.",
+    "pokemon": [
+        "clefairy",
+        "clefable",
+        "jigglypuff",
+        "wigglytuff",
+        "cleffa",
+        "igglybuff",
+        "skitty",
+        "delcatty",
+        "milotic",
+        "lopunny",
+        "minccino",
+        "cinccino",
+        "sylveon",
+        "stufful",
+        "enamorus-incarnate"
+    ]
+}

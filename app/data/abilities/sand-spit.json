@@ -1,0 +1,9 @@
+{
+    "name": "sand-spit",
+    "effect_description": "The Pok\u00e9mon creates a sandstorm when it\u2019s hit by an attack.",
+    "pokemon": [
+        "silicobra",
+        "sandaconda",
+        "sandaconda-gmax"
+    ]
+}

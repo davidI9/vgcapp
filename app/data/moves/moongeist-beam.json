@@ -1,0 +1,7 @@
+{
+    "name": "moongeist-beam",
+    "type": "ghost",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Other Pok\u00e9mon\u2019s abilities cannot activate in response to this move.  In particular, it hits through disguise"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "clanging-scales",
+    "type": "dragon",
+    "power": 110,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Lowers the user\u2019s Defense by one stage."
+}

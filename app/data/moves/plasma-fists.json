@@ -1,0 +1,7 @@
+{
+    "name": "plasma-fists",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "After inflicting damage, all Normal-type moves become Electric-type for the remainder of the turn, including status moves. This effect is applied after move type-changing abilities, such as Pixilate and Normalize."
+}

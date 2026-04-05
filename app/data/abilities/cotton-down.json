@@ -1,0 +1,8 @@
+{
+    "name": "cotton-down",
+    "effect_description": "When the Pok\u00e9mon is hit by an attack, it scatters cotton fluff around and lowers the Speed stats of all Pok\u00e9mon except itself.",
+    "pokemon": [
+        "gossifleur",
+        "eldegoss"
+    ]
+}

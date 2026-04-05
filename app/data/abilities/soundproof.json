@@ -1,0 +1,24 @@
+{
+    "name": "soundproof",
+    "effect_description": "This Pok\u00e9mon is immune to moves flagged as being sound-based.  heal bell is unaffected.  uproar still prevents this Pok\u00e9mon from sleeping.  This Pok\u00e9mon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.  howl, roar of time, sonic boom, and yawn are not flagged as sound-based.",
+    "pokemon": [
+        "voltorb",
+        "electrode",
+        "mr-mime",
+        "whismur",
+        "loudred",
+        "exploud",
+        "shieldon",
+        "bastiodon",
+        "mime-jr",
+        "snover",
+        "abomasnow",
+        "bouffalant",
+        "jangmo-o",
+        "hakamo-o",
+        "kommo-o",
+        "kommo-o-totem",
+        "voltorb-hisui",
+        "electrode-hisui"
+    ]
+}

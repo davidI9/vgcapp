@@ -1,0 +1,7 @@
+{
+    "name": "surf",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target is in the first turn of dive, this move will hit with double power."
+}

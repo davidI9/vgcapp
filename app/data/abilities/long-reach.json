@@ -1,0 +1,9 @@
+{
+    "name": "long-reach",
+    "effect_description": "A move used by this Pok\u00e9mon will not make contact.",
+    "pokemon": [
+        "rowlet",
+        "dartrix",
+        "decidueye"
+    ]
+}

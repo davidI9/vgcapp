@@ -1,0 +1,7 @@
+{
+    "name": "hammer-arm",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage, then lowers the user\u2019s Speed by one stage."
+}

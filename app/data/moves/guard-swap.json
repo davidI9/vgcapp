@@ -1,0 +1,7 @@
+{
+    "name": "guard-swap",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User swaps its Defense and Special Defense modifiers with the target."
+}

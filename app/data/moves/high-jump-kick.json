@@ -1,0 +1,7 @@
+{
+    "name": "high-jump-kick",
+    "type": "fighting",
+    "power": 130,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.  This move cannot be used while gravity is in effect."
+}

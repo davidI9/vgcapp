@@ -1,0 +1,7 @@
+{
+    "name": "icicle-crash",
+    "type": "ice",
+    "power": 85,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "freeze-dry",
+    "type": "ice",
+    "power": 70,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  This move is super-effective against the water type.  The target\u2019s other type will affect damage as usual.  If this move\u2019s type is changed, it remains super-effective against Water regardless of its type."
+}

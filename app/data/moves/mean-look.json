@@ -1,0 +1,7 @@
+{
+    "name": "mean-look",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.  The target may still escape by using baton pass, u turn, or a shed shell.  Both the user and the target pass on this effect with baton pass."
+}

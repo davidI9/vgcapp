@@ -1,0 +1,25 @@
+{
+    "id": 201,
+    "name": "unown",
+    "species": "unown",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "psychic"
+    ],
+    "base_stats": {
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special-attack": 72,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "bst": 336,
+    "abilities": [
+        "levitate"
+    ],
+    "moves": [
+        "hidden-power"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+}

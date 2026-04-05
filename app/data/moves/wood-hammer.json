@@ -1,0 +1,7 @@
+{
+    "name": "wood-hammer",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil."
+}

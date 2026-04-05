@@ -1,0 +1,17 @@
+{
+    "name": "sweet-veil",
+    "effect_description": "Prevents friendly Pok\u00e9mon from sleeping.",
+    "pokemon": [
+        "swirlix",
+        "slurpuff",
+        "cutiefly",
+        "ribombee",
+        "bounsweet",
+        "steenee",
+        "tsareena",
+        "milcery",
+        "alcremie",
+        "ribombee-totem",
+        "alcremie-gmax"
+    ]
+}

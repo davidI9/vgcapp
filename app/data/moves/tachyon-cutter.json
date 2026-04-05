@@ -1,0 +1,7 @@
+{
+    "name": "tachyon-cutter",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 0,
+    "effect_description": "The user attacks by launching particle blades at the target twice in a row. This attack never misses."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "sandsear-storm",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 80,
+    "effect_description": "The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn."
+}

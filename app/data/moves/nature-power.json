@@ -1,0 +1,7 @@
+{
+    "name": "nature-power",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Uses another move chosen according to the terrain.  Terrain                   | Selected move ------------------------- | ------------------ Building                  | tri attack Cave                      | rock slide Deep water                | hydro pump Desert                    | earthquake Grass                     | seed bomb Mountain                  | rock slide Road                      | earthquake Shallow water             | hydro pump Snow                      | blizzard Tall grass                | seed bomb electric terrain | thunderbolt grassy terrain   | energy ball misty terrain    | moonblast  In Pok\u00e9mon Battle Revolution:  Terrain        | Selected move -------------- | ------------------ Courtyard      | tri attack Crystal        | rock slide Gateway        | hydro pump Magma          | rock slide Main Street    | tri attack Neon           | tri attack Stargazer      | rock slide Sunny Park     | seed bomb Sunset         | earthquake Waterfall      | seed bomb  This move cannot be copied by mirror move."
+}

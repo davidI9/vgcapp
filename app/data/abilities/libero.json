@@ -1,0 +1,10 @@
+{
+    "name": "libero",
+    "effect_description": "Changes the Pok\u00e9mon\u2019s type to the type of the move it\u2019s about to use. This works only once each time the Pok\u00e9mon enters battle.",
+    "pokemon": [
+        "scorbunny",
+        "raboot",
+        "cinderace",
+        "cinderace-gmax"
+    ]
+}

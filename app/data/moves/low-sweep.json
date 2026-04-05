@@ -1,0 +1,7 @@
+{
+    "name": "low-sweep",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Speed by one stage."
+}

@@ -1,0 +1,8 @@
+{
+    "name": "power-of-alchemy",
+    "effect_description": "When an ally faints, this Pok\u00e9mon gains its Ability.",
+    "pokemon": [
+        "grimer-alola",
+        "muk-alola"
+    ]
+}

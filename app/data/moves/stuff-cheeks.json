@@ -1,0 +1,7 @@
+{
+    "name": "stuff-cheeks",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Inflicts regular damage, then (if successful) removes major status effects from every Pok\u00e9mon in the user\u2019s party."
+}

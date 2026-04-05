@@ -1,0 +1,7 @@
+{
+    "name": "ally-switch",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User switches position on the field with the friendly Pok\u00e9mon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pok\u00e9mon, this move will fail."
+}

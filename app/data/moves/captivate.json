@@ -1,0 +1,7 @@
+{
+    "name": "captivate",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Lowers the target\u2019s Special Attack by two stages.  If the user and target are the same gender, or either is genderless, this move will fail."
+}

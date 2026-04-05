@@ -1,0 +1,7 @@
+{
+    "name": "charge",
+    "type": "electric",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises the user\u2019s Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled."
+}

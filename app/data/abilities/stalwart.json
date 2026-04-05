@@ -1,0 +1,9 @@
+{
+    "name": "stalwart",
+    "effect_description": "Ignores the effects of opposing Pok\u00e9mon\u2019s Abilities and moves that draw in moves.",
+    "pokemon": [
+        "duraludon",
+        "archaludon",
+        "duraludon-gmax"
+    ]
+}

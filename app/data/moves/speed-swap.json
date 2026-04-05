@@ -1,0 +1,7 @@
+{
+    "name": "speed-swap",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Exchanges the original Speed stats of the user and target."
+}

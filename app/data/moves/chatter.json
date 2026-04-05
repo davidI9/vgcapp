@@ -1,0 +1,7 @@
+{
+    "name": "chatter",
+    "type": "flying",
+    "power": 65,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.  This move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk."
+}

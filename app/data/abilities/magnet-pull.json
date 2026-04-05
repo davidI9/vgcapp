@@ -1,0 +1,15 @@
+{
+    "name": "magnet-pull",
+    "effect_description": "While this Pok\u00e9mon is in battle, opposing steel-type Pok\u00e9mon cannot flee or switch out.  Pok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.  Overworld: If the lead Pok\u00e9mon has this ability, Steel-type Pok\u00e9mon have a higher encounter rate.",
+    "pokemon": [
+        "magnemite",
+        "magneton",
+        "nosepass",
+        "magnezone",
+        "probopass",
+        "meltan",
+        "geodude-alola",
+        "graveler-alola",
+        "golem-alola"
+    ]
+}

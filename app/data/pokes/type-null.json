@@ -1,0 +1,63 @@
+{
+    "id": 772,
+    "name": "type-null",
+    "species": "type-null",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "normal"
+    ],
+    "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 95,
+        "speed": 59
+    },
+    "bst": 534,
+    "abilities": [
+        "battle-armor"
+    ],
+    "moves": [
+        "swords-dance",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "thunder-wave",
+        "swift",
+        "rest",
+        "rock-slide",
+        "tri-attack",
+        "substitute",
+        "snore",
+        "protect",
+        "scary-face",
+        "icy-wind",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "hail",
+        "facade",
+        "imprison",
+        "crush-claw",
+        "metal-sound",
+        "aerial-ace",
+        "iron-defense",
+        "dragon-claw",
+        "u-turn",
+        "payback",
+        "air-slash",
+        "x-scissor",
+        "giga-impact",
+        "shadow-claw",
+        "iron-head",
+        "double-hit",
+        "round",
+        "work-up",
+        "terrain-pulse"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png"
+}

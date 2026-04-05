@@ -1,0 +1,7 @@
+{
+    "name": "entrainment",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Changes the target\u2019s ability to match the user\u2019s.  This effect ends when the target leaves battle."
+}

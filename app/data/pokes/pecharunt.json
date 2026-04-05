@@ -1,0 +1,60 @@
+{
+    "id": 1025,
+    "name": "pecharunt",
+    "species": "pecharunt",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "poison",
+        "ghost"
+    ],
+    "base_stats": {
+        "hp": 88,
+        "attack": 88,
+        "defense": 160,
+        "special-attack": 88,
+        "special-defense": 88,
+        "speed": 88
+    },
+    "bst": 600,
+    "abilities": [
+        "poison-puppeteer"
+    ],
+    "moves": [
+        "toxic",
+        "night-shade",
+        "recover",
+        "withdraw",
+        "defense-curl",
+        "smog",
+        "poison-gas",
+        "rest",
+        "substitute",
+        "curse",
+        "spite",
+        "protect",
+        "sludge-bomb",
+        "destiny-bond",
+        "endure",
+        "rollout",
+        "mean-look",
+        "sleep-talk",
+        "shadow-ball",
+        "memento",
+        "imprison",
+        "astonish",
+        "fake-tears",
+        "nasty-plot",
+        "gunk-shot",
+        "venoshock",
+        "sludge-wave",
+        "acid-spray",
+        "foul-play",
+        "hex",
+        "phantom-force",
+        "parting-shot",
+        "poltergeist",
+        "tera-blast",
+        "malignant-chain"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png"
+}

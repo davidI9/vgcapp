@@ -1,0 +1,7 @@
+{
+    "name": "scratch",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "beak-blast",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Begins charging at the start of the turn, then attacks as normal.  Any Pok\u00e9mon that makes contact with the user while charging is burned.  The charging is not affected by accuracy, sleep, paralysis, or any other effect that would interfere with a move."
+}

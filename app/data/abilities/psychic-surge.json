@@ -1,0 +1,9 @@
+{
+    "name": "psychic-surge",
+    "effect_description": "When this Pok\u00e9mon enters battle, it changes the terrain to psychic terrain.",
+    "pokemon": [
+        "tapu-lele",
+        "indeedee-male",
+        "indeedee-female"
+    ]
+}

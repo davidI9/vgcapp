@@ -1,0 +1,7 @@
+{
+    "name": "smack-down",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Removes the target\u2019s immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target\u2019s flying type to be ignored when it takes Ground damage.  If the target isn\u2019t immune to Ground damage, this move will fail.  This move can hit Pok\u00e9mon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly."
+}

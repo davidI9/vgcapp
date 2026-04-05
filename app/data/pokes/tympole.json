@@ -1,0 +1,63 @@
+{
+    "id": 535,
+    "name": "tympole",
+    "species": "tympole",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "water"
+    ],
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 64
+    },
+    "bst": 294,
+    "abilities": [
+        "swift-swim",
+        "hydration",
+        "water-absorb"
+    ],
+    "moves": [
+        "growl",
+        "supersonic",
+        "acid",
+        "mist",
+        "hydro-pump",
+        "surf",
+        "bubble-beam",
+        "toxic",
+        "screech",
+        "rest",
+        "substitute",
+        "snore",
+        "flail",
+        "protect",
+        "sludge-bomb",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "uproar",
+        "hail",
+        "facade",
+        "hyper-voice",
+        "weather-ball",
+        "muddy-water",
+        "bounce",
+        "mud-shot",
+        "water-pulse",
+        "aqua-ring",
+        "earth-power",
+        "sludge-wave",
+        "round",
+        "echoed-voice",
+        "scald",
+        "venom-drench"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "brine",
+    "type": "water",
+    "power": 65,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  If the target has less than half its max HP remaining, this move has double power."
+}

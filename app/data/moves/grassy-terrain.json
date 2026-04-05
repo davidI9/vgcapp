@@ -1,0 +1,7 @@
+{
+    "name": "grassy-terrain",
+    "type": "grass",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "For five turns, heals all Pok\u00e9mon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5\u00d7 their power.  Changes nature power to energy ball."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "sandstorm",
+    "type": "rock",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Changes the weather to a sandstorm for five turns.  Pok\u00e9mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok\u00e9mon\u2019s original Special Defense is raised by 50% for the duration of this effect.  solar beam\u2019s power is halved.  moonlight, morning sun, and synthesis only heal 1/4 the user\u2019s max HP."
+}

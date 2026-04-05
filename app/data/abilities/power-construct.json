@@ -1,0 +1,9 @@
+{
+    "name": "power-construct",
+    "effect_description": "Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.  This ability cannot be copied or replaced.  This ability only takes effect for Zygarde.",
+    "pokemon": [
+        "zygarde-10-power-construct",
+        "zygarde-50-power-construct",
+        "zygarde-complete"
+    ]
+}

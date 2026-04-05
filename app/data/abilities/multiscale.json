@@ -1,0 +1,8 @@
+{
+    "name": "multiscale",
+    "effect_description": "This Pok\u00e9mon takes half as much damage when it is hit having full HP.",
+    "pokemon": [
+        "dragonite",
+        "lugia"
+    ]
+}

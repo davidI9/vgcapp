@@ -1,0 +1,16 @@
+{
+    "name": "friend-guard",
+    "effect_description": "All friendly Pok\u00e9mon take 0.75\u00d7 as much direct damage from moves while this Pok\u00e9mon is in battle.  This effect stacks if multiple allied Pok\u00e9mon have it.",
+    "pokemon": [
+        "clefairy",
+        "jigglypuff",
+        "cleffa",
+        "igglybuff",
+        "happiny",
+        "scatterbug",
+        "spewpa",
+        "vivillon",
+        "maushold-family-of-four",
+        "maushold-family-of-three"
+    ]
+}

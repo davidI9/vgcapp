@@ -1,0 +1,7 @@
+{
+    "name": "perish-song",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Every Pok\u00e9mon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pok\u00e9mon\u2019s counter reaches zero, that Pok\u00e9mon faints.  A Pok\u00e9mon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pok\u00e9mon\u2019s counters remain.  This effect is passed on by baton pass.  This move cannot be copied by mirror move."
+}

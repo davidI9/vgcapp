@@ -1,0 +1,7 @@
+{
+    "name": "disable",
+    "type": "normal",
+    "power": null,
+    "accuracy": 100,
+    "effect_description": "Disables the target\u2019s last used move, preventing its use for 4\u20137 turns, selected at random, or until the target leaves the field.  If the target hasn\u2019t used a move since entering the field, if it tried to use a move this turn and failed,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail."
+}

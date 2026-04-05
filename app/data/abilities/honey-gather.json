@@ -1,0 +1,11 @@
+{
+    "name": "honey-gather",
+    "effect_description": "This Pok\u00e9mon has a chance of picking up honey after each battle.  This chance starts at 5% and rises another 5% after every tenth level: 5% from level 1\u201310, 10% from 11\u201320, and so on, up to 50% from 91\u2013100.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+    "pokemon": [
+        "teddiursa",
+        "combee",
+        "cutiefly",
+        "ribombee",
+        "ribombee-totem"
+    ]
+}

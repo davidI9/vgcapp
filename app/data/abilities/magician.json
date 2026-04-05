@@ -1,0 +1,12 @@
+{
+    "name": "magician",
+    "effect_description": "Steals the target's held item when the bearer uses a damaging move.",
+    "pokemon": [
+        "fennekin",
+        "braixen",
+        "delphox",
+        "klefki",
+        "hoopa",
+        "hoopa-unbound"
+    ]
+}

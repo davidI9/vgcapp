@@ -1,0 +1,7 @@
+{
+    "name": "poison-powder",
+    "type": "poison",
+    "power": null,
+    "accuracy": 75,
+    "effect_description": "Poisons the target."
+}

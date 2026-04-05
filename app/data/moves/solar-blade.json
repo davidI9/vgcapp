@@ -1,0 +1,7 @@
+{
+    "name": "solar-blade",
+    "type": "grass",
+    "power": 125,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User charges for one turn before attacking.  During sunny day, the charge turn is skipped.  During hail, rain dance, or sandstorm, power is halved.  This move cannot be selected by sleep talk."
+}

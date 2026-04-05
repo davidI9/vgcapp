@@ -1,0 +1,7 @@
+{
+    "name": "lunar-blessing",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": null,
+    "effect_description": "The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss."
+}

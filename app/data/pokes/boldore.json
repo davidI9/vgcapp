@@ -1,0 +1,59 @@
+{
+    "id": 525,
+    "name": "boldore",
+    "species": "boldore",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "rock"
+    ],
+    "base_stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 105,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "bst": 390,
+    "abilities": [
+        "sturdy",
+        "weak-armor",
+        "sand-force"
+    ],
+    "moves": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "earthquake",
+        "harden",
+        "explosion",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "iron-defense",
+        "rock-blast",
+        "power-gem",
+        "earth-power",
+        "flash-cannon",
+        "stone-edge",
+        "stealth-rock",
+        "smack-down",
+        "heavy-slam",
+        "round",
+        "bulldoze",
+        "stomping-tantrum",
+        "body-press",
+        "meteor-beam"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+}

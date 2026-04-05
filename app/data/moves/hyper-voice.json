@@ -1,0 +1,7 @@
+{
+    "name": "hyper-voice",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "jaw-lock",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage, then (if successful) sets leech seed on the target."
+}

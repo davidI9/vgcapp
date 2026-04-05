@@ -1,0 +1,24 @@
+{
+    "name": "sand-force",
+    "effect_description": "During a sandstorm, this Pok\u00e9mon's rock-, ground-, and steel-type moves have 1.3\u00d7 their base power.  This Pok\u00e9mon does not take sandstorm damage, regardless of type.",
+    "pokemon": [
+        "diglett",
+        "dugtrio",
+        "nosepass",
+        "shellos",
+        "gastrodon",
+        "hippopotas",
+        "hippowdon",
+        "probopass",
+        "roggenrola",
+        "boldore",
+        "gigalith",
+        "drilbur",
+        "excadrill",
+        "landorus-incarnate",
+        "garchomp-mega",
+        "steelix-mega",
+        "diglett-alola",
+        "dugtrio-alola"
+    ]
+}

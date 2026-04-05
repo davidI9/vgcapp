@@ -1,0 +1,7 @@
+{
+    "name": "rest",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.  This move fails if the Pok\u00e9mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok\u00e9mon is at full health or is already asleep."
+}

@@ -1,0 +1,8 @@
+{
+    "name": "guard-dog",
+    "effect_description": "Boosts the Pok\u00e9mon\u2019s Attack stat if intimidated. Moves and items that would force the Pok\u00e9mon to switch out also fail to work.",
+    "pokemon": [
+        "mabosstiff",
+        "okidogi"
+    ]
+}

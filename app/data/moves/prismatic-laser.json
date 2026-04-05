@@ -1,0 +1,7 @@
+{
+    "name": "prismatic-laser",
+    "type": "psychic",
+    "power": 160,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

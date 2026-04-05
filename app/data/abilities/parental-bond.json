@@ -1,0 +1,7 @@
+{
+    "name": "parental-bond",
+    "effect_description": "Lets the bearer hit twice with damaging moves.  The second hit has half power.",
+    "pokemon": [
+        "kangaskhan-mega"
+    ]
+}

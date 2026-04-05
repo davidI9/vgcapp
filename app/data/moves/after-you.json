@@ -1,0 +1,7 @@
+{
+    "name": "after-you",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "The target will act next this turn, regardless of Speed or move priority. If the target has already acted this turn, this move will fail."
+}

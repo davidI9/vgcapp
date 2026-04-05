@@ -1,0 +1,18 @@
+{
+    "name": "anger-point",
+    "effect_description": "Whenever this Pok\u00e9mon receives a critical hit, its Attack rises to the maximum of 6 stages.  This ability will still take effect if the critical hit is received by a substitute.",
+    "pokemon": [
+        "mankey",
+        "primeape",
+        "tauros",
+        "camerupt",
+        "sandile",
+        "krokorok",
+        "krookodile",
+        "crabrawler",
+        "crabominable",
+        "tauros-paldea-combat-breed",
+        "tauros-paldea-blaze-breed",
+        "tauros-paldea-aqua-breed"
+    ]
+}

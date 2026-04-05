@@ -1,0 +1,7 @@
+{
+    "name": "flame-charge",
+    "type": "fire",
+    "power": 50,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Raises the user\u2019s Speed by one stage."
+}

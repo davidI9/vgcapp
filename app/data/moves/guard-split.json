@@ -1,0 +1,7 @@
+{
+    "name": "guard-split",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Averages the user\u2019s unmodified Defense with the target\u2019s unmodified Defense; the value becomes the unmodified Defense for both Pok\u00e9mon. Unmodified Special Defense is averaged the same way."
+}

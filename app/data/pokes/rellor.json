@@ -1,0 +1,58 @@
+{
+    "id": 953,
+    "name": "rellor",
+    "species": "rellor",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "bug"
+    ],
+    "base_stats": {
+        "hp": 41,
+        "attack": 50,
+        "defense": 60,
+        "special-attack": 31,
+        "special-defense": 58,
+        "speed": 30
+    },
+    "bst": 270,
+    "abilities": [
+        "compound-eyes",
+        "shed-skin"
+    ],
+    "moves": [
+        "sand-attack",
+        "tackle",
+        "take-down",
+        "dig",
+        "recover",
+        "defense-curl",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "sludge-bomb",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "memento",
+        "facade",
+        "weather-ball",
+        "rock-tomb",
+        "cosmic-power",
+        "iron-defense",
+        "mud-shot",
+        "fling",
+        "x-scissor",
+        "bug-buzz",
+        "gunk-shot",
+        "bug-bite",
+        "struggle-bug",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
+}

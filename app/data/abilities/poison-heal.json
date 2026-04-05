@@ -1,0 +1,9 @@
+{
+    "name": "poison-heal",
+    "effect_description": "If this Pok\u00e9mon is poisoned, it will heal for 1/8 of its maximum HP after each turn rather than taking damage.  This includes bad poison.",
+    "pokemon": [
+        "shroomish",
+        "breloom",
+        "gliscor"
+    ]
+}

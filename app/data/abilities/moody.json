@@ -1,0 +1,14 @@
+{
+    "name": "moody",
+    "effect_description": "After each turn, one of this Pok\u00e9mon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+    "pokemon": [
+        "remoraid",
+        "octillery",
+        "smeargle",
+        "snorunt",
+        "glalie",
+        "bidoof",
+        "bibarel",
+        "scovillain"
+    ]
+}

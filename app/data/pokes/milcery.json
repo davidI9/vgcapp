@@ -1,0 +1,48 @@
+{
+    "id": 868,
+    "name": "milcery",
+    "species": "milcery",
+    "latest_game_version": "scarlet-violet",
+    "types": [
+        "fairy"
+    ],
+    "base_stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 61,
+        "speed": 34
+    },
+    "bst": 270,
+    "abilities": [
+        "sweet-veil",
+        "aroma-veil"
+    ],
+    "moves": [
+        "tackle",
+        "recover",
+        "acid-armor",
+        "rest",
+        "substitute",
+        "protect",
+        "sweet-kiss",
+        "endure",
+        "charm",
+        "attract",
+        "sleep-talk",
+        "sweet-scent",
+        "facade",
+        "helping-hand",
+        "last-resort",
+        "entrainment",
+        "stored-power",
+        "draining-kiss",
+        "misty-terrain",
+        "aromatic-mist",
+        "dazzling-gleam",
+        "baby-doll-eyes",
+        "tera-blast"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "pickpocket",
+    "effect_description": "Whenever a move makes contact with this Pok\u00e9mon, if it does not have a held item, it steals the attacker's held item.  This Pok\u00e9mon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pok\u00e9mon is wild, it cannot steal from a trained Pok\u00e9mon.",
+    "pokemon": [
+        "sneasel",
+        "seedot",
+        "nuzleaf",
+        "shiftry",
+        "weavile",
+        "binacle",
+        "barbaracle",
+        "impidimp",
+        "morgrem",
+        "grimmsnarl",
+        "shroodle",
+        "tinkatink",
+        "tinkatuff",
+        "tinkaton",
+        "grimmsnarl-gmax",
+        "sneasel-hisui"
+    ]
+}

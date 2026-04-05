@@ -1,0 +1,7 @@
+{
+    "name": "revelation-dance",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  This move\u2019s type matches the user\u2019s first type, if any; otherwise, it\u2019s typeless."
+}

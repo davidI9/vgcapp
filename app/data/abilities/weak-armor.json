@@ -1,0 +1,31 @@
+{
+    "name": "weak-armor",
+    "effect_description": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.",
+    "pokemon": [
+        "onix",
+        "omanyte",
+        "omastar",
+        "kabuto",
+        "kabutops",
+        "slugma",
+        "magcargo",
+        "skarmory",
+        "roggenrola",
+        "boldore",
+        "dwebble",
+        "crustle",
+        "garbodor",
+        "vanillite",
+        "vanillish",
+        "vanilluxe",
+        "vullaby",
+        "mandibuzz",
+        "sinistea",
+        "polteageist",
+        "cursola",
+        "armarouge",
+        "ceruledge",
+        "corsola-galar",
+        "garbodor-gmax"
+    ]
+}

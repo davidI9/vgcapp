@@ -1,0 +1,7 @@
+{
+    "name": "ruination",
+    "type": "dark",
+    "power": 1,
+    "accuracy": 90,
+    "effect_description": "The user summons a ruinous disaster. This cuts the target\u2019s HP in half."
+}

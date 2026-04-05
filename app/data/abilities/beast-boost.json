@@ -1,0 +1,17 @@
+{
+    "name": "beast-boost",
+    "effect_description": "Raises this Pok\u00e9mon's highest stat by one stage when it faints another Pok\u00e9mon.",
+    "pokemon": [
+        "nihilego",
+        "buzzwole",
+        "pheromosa",
+        "xurkitree",
+        "celesteela",
+        "kartana",
+        "guzzlord",
+        "poipole",
+        "naganadel",
+        "stakataka",
+        "blacephalon"
+    ]
+}

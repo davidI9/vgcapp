@@ -1,0 +1,7 @@
+{
+    "name": "skill-swap",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User and target switch abilities.  Ignores accuracy and evasion modifiers.  If either Pok\u00e9mon has multitype or wonder guard, this move will fail."
+}

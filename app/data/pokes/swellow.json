@@ -1,0 +1,59 @@
+{
+    "id": 277,
+    "name": "swellow",
+    "species": "swellow",
+    "latest_game_version": "brilliant-diamond-shining-pearl",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 50,
+        "speed": 125
+    },
+    "bst": 455,
+    "abilities": [
+        "guts",
+        "scrappy"
+    ],
+    "moves": [
+        "wing-attack",
+        "fly",
+        "growl",
+        "hyper-beam",
+        "peck",
+        "agility",
+        "quick-attack",
+        "double-team",
+        "focus-energy",
+        "rest",
+        "substitute",
+        "thief",
+        "reversal",
+        "protect",
+        "endure",
+        "swagger",
+        "steel-wing",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "endeavor",
+        "aerial-ace",
+        "roost",
+        "pluck",
+        "u-turn",
+        "air-slash",
+        "brave-bird",
+        "giga-impact",
+        "defog",
+        "quick-guard",
+        "work-up"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+}

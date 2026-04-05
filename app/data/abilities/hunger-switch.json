@@ -1,0 +1,8 @@
+{
+    "name": "hunger-switch",
+    "effect_description": "The Pok\u00e9mon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn.",
+    "pokemon": [
+        "morpeko-full-belly",
+        "morpeko-hangry"
+    ]
+}

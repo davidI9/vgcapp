@@ -1,0 +1,7 @@
+{
+    "name": "tera-blast",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat\u2014whichever is higher for the user."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "gear-grind",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 85,
+    "effect_description": "Inflicts regular damage.  Hits twice in one turn."
+}

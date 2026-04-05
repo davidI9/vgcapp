@@ -1,0 +1,9 @@
+{
+    "name": "liquid-voice",
+    "effect_description": "When this Pok\u00e9mon uses a move that is sound-based, that move's type is Water.",
+    "pokemon": [
+        "popplio",
+        "brionne",
+        "primarina"
+    ]
+}

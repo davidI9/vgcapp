@@ -1,0 +1,7 @@
+{
+    "name": "photon-geyser",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage."
+}

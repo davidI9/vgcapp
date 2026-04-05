@@ -1,0 +1,7 @@
+{
+    "name": "rototiller",
+    "type": "ground",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Raises the Attack and Special Attack of all grass Pok\u00e9mon in battle."
+}

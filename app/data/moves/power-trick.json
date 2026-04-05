@@ -1,0 +1,7 @@
+{
+    "name": "power-trick",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "The user\u2019s original Attack and Defense are swapped.  This effect is passed on by baton pass."
+}

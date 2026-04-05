@@ -1,0 +1,7 @@
+{
+    "name": "pay-day",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  After the battle ends, the winner receives five times the user\u2019s level in extra money for each time this move was used."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "triple-dive",
+    "type": "water",
+    "power": 30,
+    "accuracy": 95,
+    "effect_description": "The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row."
+}

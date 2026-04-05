@@ -1,0 +1,7 @@
+{
+    "name": "triage",
+    "effect_description": "This Pok\u00e9mon's healing moves have their priority increased by 3.",
+    "pokemon": [
+        "comfey"
+    ]
+}

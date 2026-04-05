@@ -1,0 +1,11 @@
+{
+    "name": "ripen",
+    "effect_description": "Ripens Berries and doubles their effect.",
+    "pokemon": [
+        "applin",
+        "flapple",
+        "appletun",
+        "flapple-gmax",
+        "appletun-gmax"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "soft-boiled",
+    "type": "normal",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "Heals the user for half its max HP."
+}

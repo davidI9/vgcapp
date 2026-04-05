@@ -1,0 +1,7 @@
+{
+    "name": "gunk-shot",
+    "type": "poison",
+    "power": 120,
+    "accuracy": 80,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target."
+}

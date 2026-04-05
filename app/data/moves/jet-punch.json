@@ -1,0 +1,7 @@
+{
+    "name": "jet-punch",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "effect_description": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
+}

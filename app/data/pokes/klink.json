@@ -1,0 +1,61 @@
+{
+    "id": 599,
+    "name": "klink",
+    "species": "klink",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "steel"
+    ],
+    "base_stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 70,
+        "special-attack": 45,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "bst": 300,
+    "abilities": [
+        "plus",
+        "minus",
+        "clear-body"
+    ],
+    "moves": [
+        "vice-grip",
+        "bind",
+        "hyper-beam",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "screech",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "zap-cannon",
+        "lock-on",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "uproar",
+        "facade",
+        "charge",
+        "metal-sound",
+        "iron-defense",
+        "assurance",
+        "power-gem",
+        "flash-cannon",
+        "discharge",
+        "charge-beam",
+        "autotomize",
+        "round",
+        "shift-gear",
+        "volt-switch",
+        "wild-charge",
+        "gear-grind",
+        "steel-beam",
+        "steel-roller",
+        "rising-voltage"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "magic-guard",
+    "effect_description": "This Pok\u00e9mon is immune to damage not directly caused by a move.  For example, this Pok\u00e9mon takes no damage from from weather, recoil, status ailments, or spikes, but it still suffers from the Attack cut when burned, and a life orb will still power up this Pok\u00e9mon's moves without damaging it.  Anything that directly depends on such damage will also not happen; for example, leech seed will neither hurt this Pok\u00e9mon nor heal the opponent, and Pok\u00e9mon with a jaboca berry or rowap berry will not consume the berry when hit by this Pok\u00e9mon.  The following are unaffected: struggle, pain split (whether used by or against this Pok\u00e9mon), belly drum, substitute, curse, moves that knock the user out, and damage from confusion.  This Pok\u00e9mon will neither lose nor regain HP if it drains HP from a Pok\u00e9mon with liquid ooze.  If this Pok\u00e9mon is badly poisoned, the poison counter is still increased each turn; if the Pok\u00e9mon loses this ability, it will begin taking as much damage as it would be if it had been taking increasing damage each turn.",
+    "pokemon": [
+        "clefairy",
+        "clefable",
+        "abra",
+        "kadabra",
+        "alakazam",
+        "cleffa",
+        "sigilyph",
+        "solosis",
+        "duosion",
+        "reuniclus"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "healing-wish",
+    "type": "psychic",
+    "power": null,
+    "accuracy": null,
+    "effect_description": "User faints.  Its replacement\u2019s HP is fully restored, and any major status effect is removed.  If the replacement Pok\u00e9mon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "fire-lash",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect_description": "Inflicts regular damage.  Lowers the target\u2019s Defense by one stage."
+}

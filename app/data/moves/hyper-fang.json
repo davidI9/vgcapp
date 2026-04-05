@@ -1,0 +1,7 @@
+{
+    "name": "hyper-fang",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."
+}

@@ -1,0 +1,61 @@
+{
+    "id": 520,
+    "name": "tranquill",
+    "species": "tranquill",
+    "latest_game_version": "sword-shield",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "base_stats": {
+        "hp": 62,
+        "attack": 77,
+        "defense": 62,
+        "special-attack": 50,
+        "special-defense": 42,
+        "speed": 65
+    },
+    "bst": 358,
+    "abilities": [
+        "big-pecks",
+        "super-luck",
+        "rivalry"
+    ],
+    "moves": [
+        "gust",
+        "fly",
+        "leer",
+        "growl",
+        "agility",
+        "quick-attack",
+        "focus-energy",
+        "swift",
+        "sky-attack",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "detect",
+        "endure",
+        "swagger",
+        "steel-wing",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "uproar",
+        "heat-wave",
+        "facade",
+        "taunt",
+        "feather-dance",
+        "air-cutter",
+        "roost",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "round",
+        "work-up",
+        "dual-wingbeat"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+}

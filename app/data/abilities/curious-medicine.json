@@ -1,0 +1,7 @@
+{
+    "name": "curious-medicine",
+    "effect_description": "When the Pok\u00e9mon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
+    "pokemon": [
+        "slowking-galar"
+    ]
+}

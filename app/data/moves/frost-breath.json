@@ -1,0 +1,7 @@
+{
+    "name": "frost-breath",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 90,
+    "effect_description": "Inflicts regular damage.  Always scores a critical hit."
+}

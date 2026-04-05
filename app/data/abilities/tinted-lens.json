@@ -1,0 +1,19 @@
+{
+    "name": "tinted-lens",
+    "effect_description": "This Pok\u00e9mon deals twice as much damage with moves that are not very effective against the target.",
+    "pokemon": [
+        "butterfree",
+        "venonat",
+        "venomoth",
+        "hoothoot",
+        "noctowl",
+        "illumise",
+        "mothim",
+        "yanmega",
+        "sigilyph",
+        "nymble",
+        "lokix",
+        "butterfree-gmax",
+        "braviary-hisui"
+    ]
+}

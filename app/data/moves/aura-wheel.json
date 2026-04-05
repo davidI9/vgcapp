@@ -1,0 +1,7 @@
+{
+    "name": "aura-wheel",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 100,
+    "effect_description": "Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move\u2019s type changes depending on the user\u2019s form."
+}

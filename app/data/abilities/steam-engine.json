@@ -1,0 +1,10 @@
+{
+    "name": "steam-engine",
+    "effect_description": "Raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage.",
+    "pokemon": [
+        "rolycoly",
+        "carkol",
+        "coalossal",
+        "coalossal-gmax"
+    ]
+}

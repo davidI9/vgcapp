@@ -1,0 +1,8 @@
+{
+    "name": "fur-coat",
+    "effect_description": "Halves damage from physical attacks.",
+    "pokemon": [
+        "furfrou",
+        "persian-alola"
+    ]
+}

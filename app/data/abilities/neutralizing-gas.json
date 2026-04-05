@@ -1,0 +1,9 @@
+{
+    "name": "neutralizing-gas",
+    "effect_description": "While the Pok\u00e9mon is in the battle, the effects of all other Pok\u00e9mon\u2019s Abilities will be nullified or will not be triggered.",
+    "pokemon": [
+        "koffing",
+        "weezing",
+        "weezing-galar"
+    ]
+}
