@@ -1,0 +1,5 @@
+{
+    "id": 258,
+    "name": "black-sludge",
+    "effect": "Held: If the holder is Poison-type, restores 1/16 max HP at the end of each turn.  Otherwise, damages the holder by 1/16 its max HP at the end of each turn."
+}

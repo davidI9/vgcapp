@@ -1,217 +1,211 @@
 import os
 import json
 import requests
+import time
 
-# Configuración de URLs
-API_BASE = "https://pokeapi.co/api/v2"
+# --- CONFIGURACIÓN ---
+BASE_URL = "https://pokeapi.co/api/v2"
+DIRS = ["data/pokes", "data/moves", "data/abilities", "data/items"] 
 
-# Jerarquía de versiones para determinar el "último juego principal" (Excluyendo Arceus)
-VERSION_PRIORITY = [
-    'scarlet-violet',
-    'sword-shield',
-    'brilliant-diamond-shining-pearl',
-    'ultra-sun-ultra-moon',
-    'sun-moon',
-    'omega-ruby-alpha-sapphire',
-    'x-y',
-    'black-2-white-2',
-    'black-white',
-    'heartgold-soulsilver',
-    'platinum',
-    'diamond-pearl',
-    'firered-leafgreen',
-    'emerald',
-    'ruby-sapphire',
-    'crystal',
-    'gold-silver',
-    'yellow',
-    'red-blue'
-]
+VERSION_PRIORITY = {
+    'scarlet-violet': 20, 'sword-shield': 19, 'ultra-sun-ultra-moon': 18,
+    'sun-moon': 17, 'omega-ruby-alpha-sapphire': 16, 'x-y': 15,
+    'black-2-white-2': 14, 'black-white': 13, 'heartgold-soulsilver': 12,
+    'platinum': 11, 'diamond-pearl': 10, 'emerald': 9, 'firered-leafgreen': 8,
+    'ruby-sapphire': 7, 'crystal': 6, 'gold-silver': 5, 'yellow': 4, 'red-blue': 3,
+}
 
-def create_directories():
-    """Crea los directorios necesarios si no existen."""
-    dirs = ['data/pokes', 'data/moves', 'data/abilities']
-    for d in dirs:
+def setup_directories():
+    for d in DIRS:
         os.makedirs(d, exist_ok=True)
 
-def get_english_text(entries, key='effect'):
-    """Busca y devuelve el texto en inglés de una lista de entradas."""
+def get_english_text(entries, key='flavor_text', language_key='language'):
     for entry in entries:
-        if entry.get('language', {}).get('name') == 'en':
-            return entry.get(key, entry.get('flavor_text', '')).replace('\n', ' ').replace('\f', ' ')
+        if entry.get(language_key, {}).get('name') == 'en':
+            return entry[key].replace('\n', ' ').replace('\f', ' ')
     return "No description available."
 
 def get_latest_version_group(moves_data):
-    """Encuentra el grupo de versiones más reciente en el que el Pokémon aprendió movimientos."""
-    available_versions = set()
+    highest_priority = -1
+    latest_version = None
     for move in moves_data:
-        for details in move.get('version_group_details', []):
-            available_versions.add(details['version_group']['name'])
-            
-    for version in VERSION_PRIORITY:
-        if version in available_versions:
-            return version
-    return None
+        for detail in move['version_group_details']:
+            v_name = detail['version_group']['name']
+            if v_name in VERSION_PRIORITY and VERSION_PRIORITY[v_name] > highest_priority:
+                highest_priority = VERSION_PRIORITY[v_name]
+                latest_version = v_name
+    return latest_version
 
-def fetch_json(url):
-    """Realiza la petición GET y devuelve el JSON."""
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.json()
-    return None
-
-def process_pokemon_data():
-    create_directories()
+def fetch_competitive_items():
+    """Obtiene objetos competitivos ignorando basura (pociones, mt, etc) y forzando megapiedras/cristales z."""
+    print("\n--- Procesando Objetos Competitivos ---")
     
-    print("Obteniendo la lista de todas las especies de Pokémon...")
-    species_list_data = fetch_json(f"{API_BASE}/pokemon-species?limit=2000")
-    if not species_list_data:
-        print("Error al conectar con PokeAPI.")
-        return
-
-    species_results = species_list_data['results']
+    item_urls = set()
     
-    # Sets para recolectar las URLs de movimientos y habilidades sin duplicados
-    moves_to_fetch = {}
-    abilities_to_fetch = {}
+    # 1. Obtener por atributos base (rescata bayas y objetos comunes)
+    for attribute in ['holdable', 'holdable-active']:
+        try:
+            req = requests.get(f"{BASE_URL}/item-attribute/{attribute}").json()
+            for item in req['items']:
+                item_urls.add(item['url'])
+        except Exception as e:
+            pass
 
-    # Para pruebas, puedes limitar el slice, ej: species_results[:10]
-    for species_info in species_results:
-        species_name = species_info['name']
-        print(f"Procesando especie: {species_name}")
+    # 2. Forzar categorías competitivas que PokeAPI olvida etiquetar bien
+    competitive_categories = [
+        'mega-stones', 'z-crystals', 'choice', 'held-items', 
+        'species-specific', 'type-enhancement', 'bad-held-items', 
+        'training', 'plates', 'jewels'
+    ]
+    
+    for cat in competitive_categories:
+        try:
+            req = requests.get(f"{BASE_URL}/item-category/{cat}").json()
+            for item in req['items']:
+                item_urls.add(item['url'])
+        except Exception as e:
+            pass
+
+    # Bolsillos (pockets) prohibidos: Elimina Pociones, Revivires, MTs, Pokeballs, etc.
+    invalid_pockets = ['medicine', 'pokeballs', 'machines', 'key', 'battle', 'mail']
+
+    for url in item_urls:
+        item_name = url.split('/')[-2]
+        file_path = f"data/items/{item_name}.json"
         
-        species_data = fetch_json(species_info['url'])
-        if not species_data:
+        if os.path.exists(file_path): 
             continue
             
-        varieties = species_data.get('varieties', [])
-        
-        # 1. Identificar la forma base (default)
-        base_variety = next((v for v in varieties if v['is_default']), None)
-        if not base_variety:
-            continue
+        try:
+            req = requests.get(url).json()
+            pocket = req.get('pocket', {}).get('name', '')
             
-        base_pokemon_data = fetch_json(base_variety['pokemon']['url'])
-        if not base_pokemon_data:
-            continue
-
-        # 2. Determinar la versión más reciente y filtrar movimientos de la forma base
-        moves_data = base_pokemon_data.get('moves', [])
-        latest_version = get_latest_version_group(moves_data)
-        
-        base_moves_list = []
-        if latest_version:
-            for move in moves_data:
-                for details in move['version_group_details']:
-                    if details['version_group']['name'] == latest_version:
-                        move_name = move['move']['name']
-                        base_moves_list.append(move_name)
-                        moves_to_fetch[move_name] = move['move']['url']
-                        break # Ya validamos que lo aprende en esta versión
-
-        # 3. Iterar sobre TODAS las formas (incluyendo la base)
-        for variety in varieties:
-            form_name = variety['pokemon']['name']
-            
-            # Usar los datos base ya descargados o descargar los de la forma alternativa
-            if variety['is_default']:
-                form_data = base_pokemon_data
-            else:
-                form_data = fetch_json(variety['pokemon']['url'])
-                if not form_data:
-                    continue
-            
-            # Extraer Estadísticas y calcular el BST
-            stats = {}
-            bst = 0
-            for stat in form_data.get('stats', []):
-                stat_name = stat['stat']['name']
-                base_stat = stat['base_stat']
-                stats[stat_name] = base_stat
-                bst += base_stat
+            # FILTRO MÁGICO: Si es medicina o basura, se salta
+            if pocket in invalid_pockets:
+                continue
                 
-            # Extraer Tipos
-            types = [t['type']['name'] for t in form_data.get('types', [])]
-            
-            # Extraer Habilidades y guardarlas para luego
-            abilities = []
-            for ab in form_data.get('abilities', []):
-                ab_name = ab['ability']['name']
-                abilities.append(ab_name)
-                abilities_to_fetch[ab_name] = ab['ability']['url']
+            effect = get_english_text(req.get('effect_entries', []), 'effect')
+            if effect == "No description available.":
+                effect = get_english_text(req.get('flavor_text_entries', []), 'text')
                 
-            # Extraer Sprite 2D (oficial artwork o front_default)
-            sprites = form_data.get('sprites', {})
-            sprite_url = sprites.get('other', {}).get('official-artwork', {}).get('front_default')
-            if not sprite_url:
-                sprite_url = sprites.get('front_default')
-
-            # Estructurar el JSON del Pokémon
-            poke_json = {
-                "id": form_data['id'],
-                "name": form_name,
-                "species": species_name,
-                "latest_game_version": latest_version,
-                "types": types,
-                "base_stats": stats,
-                "bst": bst,
-                "abilities": abilities,
-                "moves": base_moves_list, # Heredan de la forma base en la última gen
-                "sprite_url": sprite_url
+            item_data = {
+                "id": req['id'],
+                "name": req['name'],
+                "effect": effect
             }
             
-            # Guardar en data/pokes
-            with open(f"data/pokes/{form_name}.json", "w", encoding="utf-8") as f:
-                json.dump(poke_json, f, indent=4)
+            with open(file_path, 'w') as f:
+                json.dump(item_data, f, indent=4)
                 
-    # 4. Descargar y procesar todos los Movimientos únicos encontrados
-    print(f"\nDescargando {len(moves_to_fetch)} movimientos...")
-    for move_name, move_url in moves_to_fetch.items():
-        move_data = fetch_json(move_url)
-        if not move_data:
-            continue
-            
-        effect_desc = get_english_text(move_data.get('effect_entries', []), 'effect')
-        if effect_desc == "No description available.":
-            # Algunos movimientos solo tienen flavor_text
-            effect_desc = get_english_text(move_data.get('flavor_text_entries', []), 'flavor_text')
+        except Exception as e:
+            print(f"Error procesando el objeto {item_name}: {e}")
 
-        move_json = {
-            "name": move_name,
-            "type": move_data.get('type', {}).get('name'),
-            "power": move_data.get('power'),
-            "accuracy": move_data.get('accuracy'),
-            "effect_description": effect_desc
-        }
+def fetch_moves_and_abilities_data(move_urls, ability_urls):
+    print("\n--- Procesando Movimientos ---")
+    for url in move_urls:
+        move_name = url.split('/')[-2]
+        file_path = f"data/moves/{move_name}.json"
+        if os.path.exists(file_path): continue
+        try:
+            req = requests.get(url).json()
+            effect = get_english_text(req.get('effect_entries', []), 'effect')
+            if effect == "No description available.":
+                effect = get_english_text(req.get('flavor_text_entries', []), 'flavor_text')
+            move_data = {
+                "name": req['name'],
+                "type": req['type']['name'],
+                "effect": effect,
+                "base_power": req.get('power'),
+                "accuracy": req.get('accuracy')
+            }
+            with open(file_path, 'w') as f:
+                json.dump(move_data, f, indent=4)
+        except Exception as e:
+            pass
+            
+    print("\n--- Procesando Habilidades ---")
+    for url in ability_urls:
+        ability_name = url.split('/')[-2]
+        file_path = f"data/abilities/{ability_name}.json"
+        if os.path.exists(file_path): continue
+        try:
+            req = requests.get(url).json()
+            effect = get_english_text(req.get('effect_entries', []), 'effect')
+            if effect == "No description available.":
+                effect = get_english_text(req.get('flavor_text_entries', []), 'flavor_text')
+            ability_data = {
+                "name": req['name'],
+                "effect": effect,
+                "pokemon_with_ability": [p['pokemon']['name'] for p in req['pokemon']]
+            }
+            with open(file_path, 'w') as f:
+                json.dump(ability_data, f, indent=4)
+        except Exception as e:
+            pass
+
+def main():
+    setup_directories()
+    fetch_competitive_items()
+    
+    print("\nObteniendo lista de especies de Pokémon...")
+    species_req = requests.get(f"{BASE_URL}/pokemon-species?limit=10000").json()
+    all_move_urls, all_ability_urls = set(), set()
+    
+    for species_item in species_req['results']:
+        species_name = species_item['name']
+        print(f"Procesando especie: {species_name}")
+        species_data = requests.get(species_item['url']).json()
+        base_moves = []
         
-        with open(f"data/moves/{move_name}.json", "w", encoding="utf-8") as f:
-            json.dump(move_json, f, indent=4)
+        for variety in species_data['varieties']:
+            poke_url = variety['pokemon']['url']
+            try:
+                poke_data = requests.get(poke_url).json()
+                poke_name = poke_data['name']
+                stats = {stat['stat']['name']: stat['base_stat'] for stat in poke_data['stats']}
+                bst = sum(stats.values())
+                types = [t['type']['name'] for t in poke_data['types']]
+                
+                abilities = []
+                for a in poke_data['abilities']:
+                    abilities.append(a['ability']['name'])
+                    all_ability_urls.add(a['ability']['url'])
+                    
+                sprite = poke_data['sprites']['front_default']
+                moves_list = []
+                
+                if variety['is_default']:
+                    latest_version = get_latest_version_group(poke_data['moves'])
+                    for move in poke_data['moves']:
+                        for detail in move['version_group_details']:
+                            if detail['version_group']['name'] == latest_version:
+                                moves_list.append(move['move']['name'])
+                                all_move_urls.add(move['move']['url'])
+                                break
+                    base_moves = moves_list 
+                else:
+                    moves_list = base_moves
+                    
+                pokemon_payload = {
+                    "id": poke_data['id'],
+                    "name": poke_name,
+                    "is_default": variety['is_default'],
+                    "types": types,
+                    "base_stats": stats,
+                    "bst": bst,
+                    "abilities": abilities,
+                    "moves": moves_list,
+                    "sprite": sprite
+                }
+                
+                with open(f"data/pokes/{poke_name}.json", 'w') as f:
+                    json.dump(pokemon_payload, f, indent=4)
+            except Exception as e:
+                pass
+        time.sleep(0.1)
 
-    # 5. Descargar y procesar todas las Habilidades únicas encontradas
-    print(f"\nDescargando {len(abilities_to_fetch)} habilidades...")
-    for ab_name, ab_url in abilities_to_fetch.items():
-        ab_data = fetch_json(ab_url)
-        if not ab_data:
-            continue
-            
-        effect_desc = get_english_text(ab_data.get('effect_entries', []), 'effect')
-        if effect_desc == "No description available.":
-            effect_desc = get_english_text(ab_data.get('flavor_text_entries', []), 'flavor_text')
-            
-        pokemon_with_ability = [p['pokemon']['name'] for p in ab_data.get('pokemon', [])]
-
-        ab_json = {
-            "name": ab_name,
-            "effect_description": effect_desc,
-            "pokemon": pokemon_with_ability
-        }
-        
-        with open(f"data/abilities/{ab_name}.json", "w", encoding="utf-8") as f:
-            json.dump(ab_json, f, indent=4)
-            
-    print("\n¡Proceso completado! Todos los datos han sido almacenados en el directorio 'data/'.")
+    fetch_moves_and_abilities_data(all_move_urls, all_ability_urls)
+    print("\n¡Extracción completada con éxito!")
 
 if __name__ == "__main__":
-    # Advertencia: Esto realizará varios miles de peticiones a PokeAPI.
-    # El proceso completo puede tardar varios minutos.
-    process_pokemon_data()
+    main()

@@ -1,0 +1,5 @@
+{
+    "id": 8,
+    "name": "nest-ball",
+    "effect": "Used in battle :   Attempts to catch a wild Pok\u00e9mon.  Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pok\u00e9mon\u2019s level, to a maximum of 3.9\u00d7 for level 1 Pok\u00e9mon.  If the wild Pok\u00e9mon\u2019s level is higher than 30, this ball has a catch rate of 1\u00d7.      If used in a trainer battle, nothing happens and the ball is lost."
+}

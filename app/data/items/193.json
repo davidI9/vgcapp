@@ -1,0 +1,5 @@
+{
+    "id": 193,
+    "name": "exp-share",
+    "effect": "Held :   Experience is split across two groups: Pok\u00e9mon who participated in battle, and Pok\u00e9mon holding this item.  Each Pok\u00e9mon earns experience as though it had battled alone, divided by the number of Pok\u00e9mon in its group, then divided by the number of groups. Pok\u00e9mon holding this item who also participated in battle effectively earn experience twice.      Fainted Pok\u00e9mon never earn experience, and empty groups are ignored; thus, if a single Pok\u00e9mon is holding this item and the only Pok\u00e9mon who battled faints from explosion, the holder will gain full experience."
+}
